@@ -1,0 +1,1044 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AQA Biology Higher — AI Exam Practice</title>
+  <style>
+    /* ── Reset & base ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --aqa-blue: #003DA6;
+      --aqa-blue-light: #1a56c4;
+      --aqa-blue-pale: #e8eef9;
+      --green: #0a7a45;
+      --green-pale: #e6f4ec;
+      --red: #c0392b;
+      --red-pale: #fdf0ee;
+      --amber: #d4690a;
+      --amber-pale: #fef3e6;
+      --grey-100: #f5f6f8;
+      --grey-200: #e9ebed;
+      --grey-400: #b0b7c0;
+      --grey-700: #4a5568;
+      --grey-900: #1a202c;
+      --white: #ffffff;
+      --radius: 10px;
+      --shadow: 0 2px 12px rgba(0,0,0,.09);
+      --shadow-lg: 0 8px 30px rgba(0,0,0,.13);
+      --font: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      --mono: 'Courier New', monospace;
+    }
+
+    body {
+      font-family: var(--font);
+      background: var(--grey-100);
+      color: var(--grey-900);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--aqa-blue);
+      color: var(--white);
+      padding: 0 2rem;
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+      height: 64px;
+      box-shadow: 0 2px 8px rgba(0,0,0,.25);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .header-logo {
+      font-size: 1.3rem;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      white-space: nowrap;
+    }
+
+    .header-logo span {
+      background: var(--white);
+      color: var(--aqa-blue);
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-weight: 800;
+      margin-right: 6px;
+    }
+
+    .header-sub {
+      font-size: .85rem;
+      opacity: .8;
+    }
+
+    .header-score {
+      margin-left: auto;
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+    }
+
+    .score-pill {
+      background: rgba(255,255,255,.15);
+      border-radius: 20px;
+      padding: 4px 14px;
+      font-size: .85rem;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+
+    .score-pill.marks { background: rgba(255,255,255,.2); }
+
+    /* ── Layout ── */
+    .layout {
+      display: grid;
+      grid-template-columns: 300px 1fr;
+      gap: 0;
+      flex: 1;
+    }
+
+    /* ── Sidebar ── */
+    .sidebar {
+      background: var(--white);
+      border-right: 1px solid var(--grey-200);
+      overflow-y: auto;
+      height: calc(100vh - 64px);
+      position: sticky;
+      top: 64px;
+    }
+
+    .sidebar-section {
+      padding: 1rem 1rem .5rem;
+    }
+
+    .sidebar-title {
+      font-size: .7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--grey-400);
+      padding: 0 .5rem .5rem;
+    }
+
+    .filter-row {
+      display: flex;
+      gap: .5rem;
+      padding: 0 .5rem .75rem;
+      flex-wrap: wrap;
+    }
+
+    .filter-btn {
+      padding: 4px 12px;
+      border-radius: 20px;
+      border: 1.5px solid var(--grey-200);
+      background: var(--white);
+      font-size: .78rem;
+      font-weight: 600;
+      cursor: pointer;
+      color: var(--grey-700);
+      transition: all .15s;
+    }
+
+    .filter-btn:hover { border-color: var(--aqa-blue); color: var(--aqa-blue); }
+    .filter-btn.active {
+      background: var(--aqa-blue);
+      border-color: var(--aqa-blue);
+      color: var(--white);
+    }
+
+    .question-list {
+      padding: .25rem .5rem;
+    }
+
+    .q-item {
+      display: flex;
+      align-items: flex-start;
+      gap: .5rem;
+      padding: .6rem .75rem;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background .12s;
+      position: relative;
+    }
+
+    .q-item:hover { background: var(--grey-100); }
+    .q-item.active { background: var(--aqa-blue-pale); }
+
+    .q-num {
+      font-size: .72rem;
+      font-weight: 700;
+      background: var(--grey-200);
+      border-radius: 4px;
+      padding: 1px 5px;
+      color: var(--grey-700);
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+
+    .q-item.active .q-num {
+      background: var(--aqa-blue);
+      color: var(--white);
+    }
+
+    .q-meta {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .q-topic {
+      font-size: .76rem;
+      font-weight: 600;
+      color: var(--aqa-blue);
+    }
+
+    .q-subtopic {
+      font-size: .72rem;
+      color: var(--grey-700);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .q-marks-badge {
+      font-size: .68rem;
+      font-weight: 700;
+      background: var(--grey-200);
+      color: var(--grey-700);
+      border-radius: 10px;
+      padding: 1px 7px;
+      flex-shrink: 0;
+      align-self: center;
+    }
+
+    .q-status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      flex-shrink: 0;
+      align-self: center;
+      background: var(--grey-200);
+    }
+
+    .q-status-dot.done { background: var(--green); }
+    .q-status-dot.partial { background: var(--amber); }
+
+    /* ── Main panel ── */
+    .main {
+      padding: 2rem;
+      overflow-y: auto;
+      max-width: 860px;
+      width: 100%;
+    }
+
+    /* ── Welcome screen ── */
+    .welcome {
+      text-align: center;
+      padding: 4rem 2rem;
+      color: var(--grey-700);
+    }
+
+    .welcome h2 {
+      font-size: 1.8rem;
+      color: var(--aqa-blue);
+      margin-bottom: .75rem;
+    }
+
+    .welcome p { font-size: 1rem; max-width: 480px; margin: 0 auto 2rem; }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1rem;
+      max-width: 520px;
+      margin: 0 auto;
+    }
+
+    .stat-card {
+      background: var(--white);
+      border-radius: var(--radius);
+      padding: 1.2rem;
+      box-shadow: var(--shadow);
+    }
+
+    .stat-num { font-size: 2rem; font-weight: 800; color: var(--aqa-blue); }
+    .stat-label { font-size: .78rem; color: var(--grey-700); margin-top: .2rem; }
+
+    /* ── Question card ── */
+    .question-card {
+      background: var(--white);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      margin-bottom: 1.5rem;
+    }
+
+    .q-header {
+      background: var(--aqa-blue);
+      color: var(--white);
+      padding: 1rem 1.5rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .q-id-badge {
+      font-size: .72rem;
+      font-weight: 700;
+      background: rgba(255,255,255,.2);
+      border-radius: 4px;
+      padding: 2px 8px;
+    }
+
+    .q-header-topic {
+      font-weight: 700;
+      font-size: .95rem;
+    }
+
+    .q-header-sub {
+      font-size: .82rem;
+      opacity: .85;
+    }
+
+    .q-marks-chip {
+      margin-left: auto;
+      background: rgba(255,255,255,.2);
+      border-radius: 20px;
+      padding: 3px 14px;
+      font-size: .85rem;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    .q-priority-bar {
+      background: var(--amber-pale);
+      border-bottom: 1px solid #f0d9b8;
+      padding: .5rem 1.5rem;
+      font-size: .75rem;
+      color: var(--amber);
+      font-weight: 600;
+    }
+
+    .q-body {
+      padding: 1.5rem;
+    }
+
+    .question-text {
+      font-size: .97rem;
+      line-height: 1.7;
+      white-space: pre-wrap;
+      color: var(--grey-900);
+    }
+
+    .hint-block {
+      background: var(--aqa-blue-pale);
+      border-left: 3px solid var(--aqa-blue);
+      border-radius: 0 6px 6px 0;
+      padding: .65rem 1rem;
+      margin-top: 1rem;
+      font-size: .82rem;
+      color: var(--aqa-blue);
+      display: none;
+    }
+
+    .hint-block.visible { display: block; }
+
+    /* ── Answer area ── */
+    .answer-section {
+      padding: 0 1.5rem 1.5rem;
+    }
+
+    .answer-label {
+      font-size: .78rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .5px;
+      color: var(--grey-700);
+      margin-bottom: .4rem;
+    }
+
+    textarea {
+      width: 100%;
+      min-height: 160px;
+      border: 1.5px solid var(--grey-200);
+      border-radius: 8px;
+      padding: .85rem 1rem;
+      font-family: var(--font);
+      font-size: .93rem;
+      line-height: 1.6;
+      color: var(--grey-900);
+      resize: vertical;
+      transition: border .15s;
+      outline: none;
+    }
+
+    textarea:focus { border-color: var(--aqa-blue); }
+
+    .action-row {
+      display: flex;
+      gap: .75rem;
+      margin-top: .75rem;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .btn {
+      padding: .55rem 1.25rem;
+      border-radius: 8px;
+      font-size: .88rem;
+      font-weight: 600;
+      cursor: pointer;
+      border: none;
+      transition: all .15s;
+      display: flex;
+      align-items: center;
+      gap: .4rem;
+    }
+
+    .btn-primary {
+      background: var(--aqa-blue);
+      color: var(--white);
+    }
+
+    .btn-primary:hover { background: var(--aqa-blue-light); }
+    .btn-primary:disabled { opacity: .5; cursor: not-allowed; }
+
+    .btn-secondary {
+      background: var(--grey-100);
+      color: var(--grey-700);
+      border: 1.5px solid var(--grey-200);
+    }
+
+    .btn-secondary:hover { background: var(--grey-200); }
+
+    .btn-danger {
+      background: var(--red-pale);
+      color: var(--red);
+      border: 1.5px solid #f5c6c2;
+    }
+
+    .btn-danger:hover { background: #fce8e6; }
+
+    .char-count {
+      font-size: .75rem;
+      color: var(--grey-400);
+      margin-left: auto;
+      align-self: center;
+    }
+
+    /* ── Marking result ── */
+    .marking-card {
+      background: var(--white);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      margin-bottom: 1.5rem;
+    }
+
+    .marking-header {
+      padding: 1rem 1.5rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      border-bottom: 1px solid var(--grey-200);
+    }
+
+    .marking-header h3 {
+      font-size: 1rem;
+      font-weight: 700;
+    }
+
+    .marks-score {
+      font-size: 1.5rem;
+      font-weight: 800;
+      margin-left: auto;
+    }
+
+    .marks-score.full { color: var(--green); }
+    .marks-score.partial { color: var(--amber); }
+    .marks-score.low { color: var(--red); }
+
+    .marking-body {
+      padding: 1.25rem 1.5rem;
+      font-size: .9rem;
+      line-height: 1.75;
+    }
+
+    .marking-body p { margin-bottom: .5rem; }
+
+    /* Markdown-like formatting */
+    .marking-body strong { color: var(--grey-900); }
+
+    .stream-cursor::after {
+      content: '▋';
+      animation: blink .7s step-end infinite;
+      color: var(--aqa-blue);
+    }
+
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+
+    .marking-loading {
+      display: flex;
+      align-items: center;
+      gap: .75rem;
+      padding: 1.5rem;
+      color: var(--grey-700);
+      font-size: .9rem;
+    }
+
+    .spinner {
+      width: 20px;
+      height: 20px;
+      border: 2.5px solid var(--grey-200);
+      border-top-color: var(--aqa-blue);
+      border-radius: 50%;
+      animation: spin .8s linear infinite;
+      flex-shrink: 0;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Progress bar ── */
+    .progress-strip {
+      height: 3px;
+      background: var(--grey-200);
+      position: fixed;
+      top: 64px;
+      left: 0;
+      right: 0;
+      z-index: 99;
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--aqa-blue), #4a86e8);
+      transition: width .5s ease;
+    }
+
+    /* ── Result badge ── */
+    .result-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: .3rem;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: .78rem;
+      font-weight: 700;
+    }
+
+    .result-chip.full { background: var(--green-pale); color: var(--green); }
+    .result-chip.partial { background: var(--amber-pale); color: var(--amber); }
+    .result-chip.low { background: var(--red-pale); color: var(--red); }
+
+    /* ── Navigation ── */
+    .nav-row {
+      display: flex;
+      gap: .75rem;
+      margin-top: 1.5rem;
+    }
+
+    /* ── Scrollbar ── */
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: var(--grey-200); border-radius: 3px; }
+
+    /* ── Responsive ── */
+    @media (max-width: 768px) {
+      .layout { grid-template-columns: 1fr; }
+      .sidebar { height: auto; position: relative; top: 0; max-height: 35vh; }
+      .main { padding: 1rem; }
+      .stats-grid { grid-template-columns: repeat(3, 1fr); }
+    }
+
+    /* ── Markdown rendering ── */
+    .md-output { white-space: pre-wrap; }
+    .md-output h1, .md-output h2 { display: block; font-weight: 800; margin: .5em 0 .25em; }
+    .md-output strong { font-weight: 700; }
+    .md-output em { font-style: italic; }
+    .md-output ul, .md-output ol { padding-left: 1.25rem; margin: .25rem 0; }
+    .md-output li { margin: .15rem 0; }
+    .md-output code { font-family: var(--mono); background: var(--grey-100); padding: 1px 4px; border-radius: 3px; }
+
+    .section-divider {
+      height: 1px;
+      background: var(--grey-200);
+      margin: .75rem 0;
+    }
+
+    .green-text { color: var(--green); }
+    .red-text { color: var(--red); }
+    .amber-text { color: var(--amber); }
+    .blue-text { color: var(--aqa-blue); }
+  </style>
+</head>
+<body>
+
+<!-- Progress strip -->
+<div class="progress-strip"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
+
+<!-- Header -->
+<header>
+  <div class="header-logo"><span>AQA</span> Biology Higher</div>
+  <div class="header-sub">Combined Science Trilogy · 8464 · AI Exam Practice</div>
+  <div class="header-score">
+    <div class="score-pill marks" id="scoreDisplay">0 / 0 marks</div>
+    <div class="score-pill" id="questionsDisplay">0 / {{ questions|length }} answered</div>
+  </div>
+</header>
+
+<div class="layout">
+
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <div class="sidebar-section">
+      <div class="sidebar-title">Filter by Paper</div>
+      <div class="filter-row">
+        <button class="filter-btn active" data-paper="all">All</button>
+        <button class="filter-btn" data-paper="1">Paper 1</button>
+        <button class="filter-btn" data-paper="2">Paper 2</button>
+      </div>
+    </div>
+
+    <div class="sidebar-section">
+      <div class="sidebar-title">Filter by Topic</div>
+      <div class="filter-row" id="topicFilters">
+        <button class="filter-btn active" data-topic="all">All Topics</button>
+        {% for t in topics_p1 %}
+        <button class="filter-btn" data-topic="{{ t }}" data-paper-group="1">{{ t }}</button>
+        {% endfor %}
+        {% for t in topics_p2 %}
+        <button class="filter-btn" data-topic="{{ t }}" data-paper-group="2">{{ t }}</button>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="sidebar-section">
+      <div class="sidebar-title">Questions</div>
+    </div>
+    <div class="question-list" id="questionList">
+      {% for q in questions %}
+      <div class="q-item" data-id="{{ q.id }}" data-paper="{{ q.paper }}" data-topic="{{ q.topic }}" onclick="loadQuestion('{{ q.id }}')">
+        <div class="q-status-dot" id="dot-{{ q.id }}"></div>
+        <div class="q-num">{{ loop.index }}</div>
+        <div class="q-meta">
+          <div class="q-topic">P{{ q.paper }} · {{ q.topic }}</div>
+          <div class="q-subtopic">{{ q.subtopic }}</div>
+        </div>
+        <div class="q-marks-badge">{{ q.marks }}m</div>
+      </div>
+      {% endfor %}
+    </div>
+  </aside>
+
+  <!-- Main content -->
+  <main class="main" id="mainPanel">
+
+    <!-- Welcome -->
+    <div id="welcomeScreen" class="welcome">
+      <h2>Biology Exam Practice</h2>
+      <p>Select a question from the sidebar to begin. Questions are taken from AQA past papers (2018–2024) and marked by AI using the real mark scheme.</p>
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="stat-num">{{ questions|length }}</div>
+          <div class="stat-label">Questions</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-num">{{ questions|sum(attribute='marks') }}</div>
+          <div class="stat-label">Total Marks</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-num">2</div>
+          <div class="stat-label">Papers</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Question view (hidden until question selected) -->
+    <div id="questionView" style="display:none">
+
+      <!-- Question card -->
+      <div class="question-card">
+        <div class="q-header">
+          <div class="q-id-badge" id="qIdBadge"></div>
+          <div>
+            <div class="q-header-topic" id="qHeaderTopic"></div>
+            <div class="q-header-sub" id="qHeaderSub"></div>
+          </div>
+          <div class="q-marks-chip" id="qMarksBadge"></div>
+        </div>
+        <div class="q-priority-bar" id="qPriorityBar"></div>
+        <div class="q-body">
+          <div class="question-text" id="questionText"></div>
+          <div class="hint-block" id="hintBlock"></div>
+        </div>
+        <div class="answer-section">
+          <div class="answer-label">Your Answer</div>
+          <textarea id="answerBox" placeholder="Type your answer here…" oninput="updateCharCount()"></textarea>
+          <div class="action-row">
+            <button class="btn btn-primary" id="submitBtn" onclick="submitAnswer()">
+              ✦ Mark My Answer
+            </button>
+            <button class="btn btn-secondary" onclick="toggleHint()">💡 Hint</button>
+            <button class="btn btn-secondary" onclick="clearAnswer()">Clear</button>
+            <span class="char-count" id="charCount">0 characters</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Marking result -->
+      <div id="markingArea"></div>
+
+      <!-- Navigation -->
+      <div class="nav-row">
+        <button class="btn btn-secondary" onclick="prevQuestion()">← Previous</button>
+        <button class="btn btn-secondary" onclick="nextQuestion()">Next →</button>
+      </div>
+
+    </div>
+
+  </main>
+</div>
+
+<script>
+// ── State ────────────────────────────────────────────────────────────────────
+const allQuestions = {{ questions | tojson | safe }};
+let filteredQuestions = [...allQuestions];
+let currentQuestionId = null;
+let scores = {};      // { questionId: { awarded: X, total: Y } }
+let hintVisible = false;
+let isMarking = false;
+
+// ── Filtering ────────────────────────────────────────────────────────────────
+let activePaper = 'all';
+let activeTopic = 'all';
+
+document.querySelectorAll('[data-paper]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    activePaper = btn.dataset.paper;
+    document.querySelectorAll('[data-paper]').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    applyFilters();
+  });
+});
+
+document.querySelectorAll('[data-topic]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    activeTopic = btn.dataset.topic;
+    document.querySelectorAll('[data-topic]').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    applyFilters();
+  });
+});
+
+function applyFilters() {
+  filteredQuestions = allQuestions.filter(q => {
+    const paperMatch = activePaper === 'all' || String(q.paper) === activePaper;
+    const topicMatch = activeTopic === 'all' || q.topic === activeTopic;
+    return paperMatch && topicMatch;
+  });
+
+  document.querySelectorAll('.q-item').forEach(item => {
+    const q = allQuestions.find(x => x.id === item.dataset.id);
+    const paperMatch = activePaper === 'all' || String(q.paper) === activePaper;
+    const topicMatch = activeTopic === 'all' || q.topic === activeTopic;
+    item.style.display = (paperMatch && topicMatch) ? 'flex' : 'none';
+  });
+}
+
+// ── Load question ─────────────────────────────────────────────────────────────
+function loadQuestion(id) {
+  const q = allQuestions.find(x => x.id === id);
+  if (!q) return;
+
+  currentQuestionId = id;
+  hintVisible = false;
+
+  // Sidebar: active state
+  document.querySelectorAll('.q-item').forEach(el => el.classList.remove('active'));
+  const activeItem = document.querySelector(`.q-item[data-id="${id}"]`);
+  if (activeItem) {
+    activeItem.classList.add('active');
+    activeItem.scrollIntoView({ block: 'nearest' });
+  }
+
+  // Populate card
+  document.getElementById('qIdBadge').textContent = id;
+  document.getElementById('qHeaderTopic').textContent = `Paper ${q.paper} · ${q.topic}`;
+  document.getElementById('qHeaderSub').textContent = q.subtopic;
+  document.getElementById('qMarksBadge').textContent = `${q.marks} marks`;
+  document.getElementById('qPriorityBar').textContent = q.priority;
+  document.getElementById('questionText').textContent = q.question;
+
+  const hintEl = document.getElementById('hintBlock');
+  hintEl.textContent = `💡 ${q.hint}`;
+  hintEl.classList.remove('visible');
+
+  // Restore previous answer if any
+  const savedAnswer = scores[id]?.answer || '';
+  document.getElementById('answerBox').value = savedAnswer;
+  updateCharCount();
+
+  // Show/hide screens
+  document.getElementById('welcomeScreen').style.display = 'none';
+  document.getElementById('questionView').style.display = 'block';
+
+  // Show previous marking if exists
+  if (scores[id]?.feedback) {
+    renderMarking(scores[id].feedback, scores[id].awarded, scores[id].total);
+  } else {
+    document.getElementById('markingArea').innerHTML = '';
+  }
+
+  document.getElementById('answerBox').focus();
+}
+
+// ── Answer utilities ──────────────────────────────────────────────────────────
+function updateCharCount() {
+  const len = document.getElementById('answerBox').value.length;
+  document.getElementById('charCount').textContent = `${len} character${len !== 1 ? 's' : ''}`;
+}
+
+function clearAnswer() {
+  document.getElementById('answerBox').value = '';
+  document.getElementById('markingArea').innerHTML = '';
+  updateCharCount();
+  if (scores[currentQuestionId]) {
+    delete scores[currentQuestionId];
+    updateScoreDisplay();
+    updateDot(currentQuestionId, 'none');
+  }
+}
+
+function toggleHint() {
+  hintVisible = !hintVisible;
+  document.getElementById('hintBlock').classList.toggle('visible', hintVisible);
+}
+
+// ── Submit & mark ─────────────────────────────────────────────────────────────
+async function submitAnswer() {
+  if (isMarking) return;
+  const answer = document.getElementById('answerBox').value.trim();
+  if (!answer) { alert('Please write an answer before submitting.'); return; }
+  if (!currentQuestionId) return;
+
+  isMarking = true;
+  const btn = document.getElementById('submitBtn');
+  btn.disabled = true;
+  btn.textContent = '⏳ Marking…';
+
+  // Show loading state
+  document.getElementById('markingArea').innerHTML = `
+    <div class="marking-card">
+      <div class="marking-loading">
+        <div class="spinner"></div>
+        <span>The examiner is marking your answer…</span>
+      </div>
+    </div>`;
+
+  // Stream the marking
+  let accumulated = '';
+  let marksAwarded = null;
+  let marksTotal = null;
+
+  try {
+    const resp = await fetch('/api/mark', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ question_id: currentQuestionId, answer })
+    });
+
+    if (!resp.ok) throw new Error(`Server error: ${resp.status}`);
+
+    const reader = resp.body.getReader();
+    const decoder = new TextDecoder();
+    let buffer = '';
+    let headerExtracted = false;
+
+    // Render streaming container
+    document.getElementById('markingArea').innerHTML = `
+      <div class="marking-card">
+        <div class="marking-header">
+          <h3>📋 Examiner's Marking</h3>
+          <span id="liveScore" style="margin-left:auto;font-size:.9rem;color:var(--grey-400);">Marking…</span>
+        </div>
+        <div class="marking-body" id="streamOutput"><span class="stream-cursor"></span></div>
+      </div>`;
+
+    while (true) {
+      const { done, value } = await reader.read();
+      if (done) break;
+
+      buffer += decoder.decode(value, { stream: true });
+      const lines = buffer.split('\n');
+      buffer = lines.pop();
+
+      for (const line of lines) {
+        if (!line.startsWith('data: ')) continue;
+        const raw = line.slice(6);
+        if (raw === '[DONE]') break;
+        try {
+          const parsed = JSON.parse(raw);
+          accumulated += parsed.text;
+
+          // Try to extract marks on the fly
+          if (!headerExtracted) {
+            const m = accumulated.match(/\*\*MARKS AWARDED:\s*(\d+)\s*\/\s*(\d+)\*\*/);
+            if (m) {
+              marksAwarded = parseInt(m[1]);
+              marksTotal = parseInt(m[2]);
+              headerExtracted = true;
+              updateLiveScore(marksAwarded, marksTotal);
+            }
+          }
+
+          // Update streamed text
+          const outEl = document.getElementById('streamOutput');
+          if (outEl) {
+            outEl.innerHTML = renderMarkdown(accumulated) + '<span class="stream-cursor"></span>';
+          }
+        } catch { /* skip malformed */ }
+      }
+    }
+
+    // Final render without cursor
+    const outEl = document.getElementById('streamOutput');
+    if (outEl) outEl.innerHTML = renderMarkdown(accumulated);
+
+    // If we didn't extract marks yet, do final extraction
+    if (marksAwarded === null) {
+      const m = accumulated.match(/\*\*MARKS AWARDED:\s*(\d+)\s*\/\s*(\d+)\*\*/);
+      if (m) {
+        marksAwarded = parseInt(m[1]);
+        marksTotal = parseInt(m[2]);
+      }
+    }
+
+    if (marksAwarded !== null && marksTotal !== null) {
+      updateLiveScore(marksAwarded, marksTotal);
+      // Save result
+      const q = allQuestions.find(x => x.id === currentQuestionId);
+      scores[currentQuestionId] = {
+        awarded: marksAwarded,
+        total: marksTotal || q.marks,
+        answer,
+        feedback: accumulated
+      };
+      updateScoreDisplay();
+      updateDot(currentQuestionId,
+        marksAwarded === marksTotal ? 'full' :
+        marksAwarded > 0 ? 'partial' : 'zero'
+      );
+      updateProgress();
+    }
+
+  } catch (err) {
+    document.getElementById('markingArea').innerHTML = `
+      <div class="marking-card">
+        <div class="marking-body" style="color:var(--red)">
+          ⚠ Error connecting to marking service. Please try again.
+        </div>
+      </div>`;
+    console.error(err);
+  }
+
+  isMarking = false;
+  btn.disabled = false;
+  btn.textContent = '✦ Mark My Answer';
+}
+
+// ── Render helpers ────────────────────────────────────────────────────────────
+function renderMarkdown(text) {
+  return text
+    .replace(/\*\*MARKS AWARDED:\s*(\d+)\s*\/\s*(\d+)\*\*/g, (_, a, t) => {
+      const pct = t > 0 ? a / t : 0;
+      const cls = pct === 1 ? 'full' : pct >= 0.5 ? 'partial' : 'low';
+      return `<div style="margin-bottom:.75rem"><span class="result-chip ${cls}">${a === t ? '✓' : '✗'} ${a} / ${t} marks</span></div>`;
+    })
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/^### (.+)$/gm, '<strong style="font-size:1rem">$1</strong>')
+    .replace(/^## (.+)$/gm, '<strong style="font-size:1.05rem">$1</strong>')
+    .replace(/\[1\]/g, '<span style="font-size:.78rem;font-weight:700;color:var(--grey-400);margin-left:2px">[1]</span>')
+    .replace(/✓/g, '<span class="green-text">✓</span>')
+    .replace(/✗/g, '<span class="red-text">✗</span>')
+    .replace(/\n/g, '<br>');
+}
+
+function updateLiveScore(awarded, total) {
+  const el = document.getElementById('liveScore');
+  if (!el) return;
+  const pct = total > 0 ? awarded / total : 0;
+  const cls = pct === 1 ? 'full' : pct >= 0.5 ? 'partial' : 'low';
+  el.innerHTML = `<span class="marks-score ${cls}">${awarded} / ${total}</span>`;
+}
+
+function renderMarking(text, awarded, total) {
+  document.getElementById('markingArea').innerHTML = `
+    <div class="marking-card">
+      <div class="marking-header">
+        <h3>📋 Examiner's Marking</h3>
+        <span class="marks-score ${awarded === total ? 'full' : awarded > 0 ? 'partial' : 'low'}">${awarded} / ${total}</span>
+      </div>
+      <div class="marking-body">${renderMarkdown(text)}</div>
+    </div>`;
+}
+
+// ── Score display ─────────────────────────────────────────────────────────────
+function updateScoreDisplay() {
+  let totalAwarded = 0, totalPossible = 0, answered = 0;
+  for (const [id, s] of Object.entries(scores)) {
+    totalAwarded += s.awarded;
+    totalPossible += s.total;
+    answered++;
+  }
+  document.getElementById('scoreDisplay').textContent = `${totalAwarded} / ${totalPossible} marks`;
+  document.getElementById('questionsDisplay').textContent = `${answered} / ${allQuestions.length} answered`;
+}
+
+function updateProgress() {
+  const answered = Object.keys(scores).length;
+  const pct = (answered / allQuestions.length) * 100;
+  document.getElementById('progressFill').style.width = pct + '%';
+}
+
+function updateDot(id, state) {
+  const dot = document.getElementById(`dot-${id}`);
+  if (!dot) return;
+  dot.className = 'q-status-dot';
+  if (state === 'full') dot.classList.add('done');
+  else if (state === 'partial') dot.classList.add('partial');
+}
+
+// ── Navigation ────────────────────────────────────────────────────────────────
+function currentIndex() {
+  return filteredQuestions.findIndex(q => q.id === currentQuestionId);
+}
+
+function prevQuestion() {
+  const idx = currentIndex();
+  if (idx > 0) loadQuestion(filteredQuestions[idx - 1].id);
+}
+
+function nextQuestion() {
+  const idx = currentIndex();
+  if (idx < filteredQuestions.length - 1) loadQuestion(filteredQuestions[idx + 1].id);
+}
+
+// ── Keyboard shortcuts ────────────────────────────────────────────────────────
+document.addEventListener('keydown', e => {
+  if (e.altKey && e.key === 'Enter') submitAnswer();
+  if (e.altKey && e.key === 'ArrowRight') nextQuestion();
+  if (e.altKey && e.key === 'ArrowLeft') prevQuestion();
+});
+
+// Initialise display
+updateScoreDisplay();
+</script>
+</body>
+</html>

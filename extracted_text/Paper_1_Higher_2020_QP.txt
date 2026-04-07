@@ -1,0 +1,922 @@
+Please write clearly in block capitals.
+Centre number
+
+Candidate number
+
+Surname
+Forename(s)
+Candidate signature
+
+I declare this is my own work.
+
+H
+
+GCSE
+COMBINED SCIENCE: TRILOGY
+Higher Tier
+Biology Paper 1H
+Tuesday 12 May 2020
+
+Afternoon
+
+Time allowed: 1 hour 15 minutes
+
+Materials
+
+For Examiner’s Use
+
+For this paper you must have:
+• a ruler
+• a scientific calculator.
+
+Question
+
+Mark
+
+1
+
+Instructions
+
+2
+
+• Use black ink or black ball-point pen.
+• Pencil should only be used for drawing.
+• Fill in the boxes at the top of this page.
+• Answer all questions in the spaces provided.
+• If you need extra space for your answer(s), use the lined pages at the end of
+this book. Write the question number against your answer(s).
+• Do all rough work in this book. Cross through any work you do not want to be
+marked.
+• In all calculations, show clearly how you work out your answer.
+
+3
+4
+5
+6
+
+TOTAL
+
+Information
+
+• The maximum mark for this paper is 70.
+• The marks for questions are shown in brackets.
+• You are expected to use a calculator where appropriate.
+• You are reminded of the need for good English and clear presentation in your answers.
+
+*jun208464b1h01*
+IB/M/Jun20/E10
+
+8464/B/1H
+
+2
+Do not write
+outside the
+box
+
+There are no questions printed on this page
+
+DO NOT WRITE ON THIS PAGE
+ANSWER IN THE SPACES PROVIDED
+
+*02*
+
+IB/M/Jun20/8464/B/1H
+
+3
+0 1
+
+A student investigated the effect of different concentrations of sugar solution on
+pieces of potato.
+This is the method used.
+1. Cut five pieces of potato.
+2. Record the starting mass of each piece of potato.
+3. Place each piece of potato in a different concentration of sugar solution.
+4. After 24 hours remove the pieces of potato from the solutions.
+5. Record the final mass of each piece of potato.
+6. Calculate the change in mass for each piece of potato.
+
+0 1 . 1
+
+What is the independent variable?
+Tick () one box.
+
+[1 mark]
+
+Change in mass of the pieces of potato
+Concentration of the sugar solution
+Length of time the pieces of potato are in the solution
+Starting mass of the pieces of potato
+
+Question 1 continues on the next page
+
+Turn over ►
+
+*03*
+
+IB/M/Jun20/8464/B/1H
+
+Do not write
+outside the
+box
+
+4
+Do not write
+outside the
+box
+
+Table 1 shows the results.
+Table 1
+Concentration of
+sugar solution
+in mol/dm3
+
+0 1 . 2
+
+*04*
+
+Mass of potato at
+start in grams
+
+Mass of potato
+after 24 hours in
+grams
+
+Change in mass
+in grams
+
+0.0
+
+7.94
+
+10.14
+
+2.20
+
+0.1
+
+7.95
+
+9.10
+
+1.15
+
+0.2
+
+7.96
+
+8.21
+
+0.25
+
+0.3
+
+7.93
+
+7.53
+
+–0.40
+
+0.4
+
+7.93
+
+7.18
+
+–0.75
+
+0.5
+
+7.95
+
+7.00
+
+–0.95
+
+Explain why the potato in 0.0 mol/dm3 sugar solution increased in mass.
+
+[2 marks]
+
+IB/M/Jun20/8464/B/1H
+
+5
+0 1 . 3
+
+Do not write
+outside the
+box
+
+Complete Figure 1.
+Some of the results have been plotted for you.
+You should:
+• plot the data from Table 1
+• draw a line of best fit through all the points.
+
+[2 marks]
+
+Figure 1
+
+0 1 . 4
+
+The mass of a piece of potato does not change when:
+concentration of solution inside cells = concentration of solution outside cells
+Determine the concentration of sugar solution inside the potato cells.
+Use Figure 1.
+
+[1 mark]
+Concentration =
+
+mol/dm3
+
+Turn over ►
+
+*05*
+
+IB/M/Jun20/8464/B/1H
+
+6
+Do not write
+outside the
+box
+
+Table 1 is repeated below.
+Table 1
+Concentration of
+sugar solution
+in mol/dm3
+
+0 1 . 5
+
+Mass of potato at
+start in grams
+
+Mass of potato
+after 24 hours in
+grams
+
+Change in mass
+in grams
+
+0.0
+
+7.94
+
+10.14
+
+2.20
+
+0.1
+
+7.95
+
+9.10
+
+1.15
+
+0.2
+
+7.96
+
+8.21
+
+0.25
+
+0.3
+
+7.93
+
+7.53
+
+–0.40
+
+0.4
+
+7.93
+
+7.18
+
+–0.75
+
+0.5
+
+7.95
+
+7.00
+
+–0.95
+
+Calculate the percentage change in mass for the potato in 0.2 mol/dm3 sugar solution.
+Use Table 1.
+Use the equation:
+percentage change in mass =
+
+change in mass
+× 100
+mass of potato at start
+
+Give your answer to 3 significant figures.
+
+Percentage change in mass (3 significant figures) =
+
+*06*
+
+[3 marks]
+
+%
+
+IB/M/Jun20/8464/B/1H
+
+9
+
+7
+0 2
+
+Starch is digested to form sugar molecules in the digestive system.
+
+0 2 . 1
+
+What is the name of the enzyme that digests starch?
+
+0 2 . 2
+
+Where are most food molecules absorbed?
+Tick () one box.
+
+Do not write
+outside the
+box
+
+[1 mark]
+
+[1 mark]
+
+Large intestine
+Liver
+Small intestine
+Stomach
+
+Question 2 continues on the next page
+
+Turn over ►
+
+*07*
+
+IB/M/Jun20/8464/B/1H
+
+8
+Do not write
+outside the
+box
+
+Figure 2 shows two villi.
+Figure 2 also shows one cell on the surface of a villus as seen using an
+electron microscope.
+Figure 2
+
+0 2 . 3
+
+*08*
+
+Give one advantage of using an electron microscope compared with using a
+light microscope.
+
+[1 mark]
+
+IB/M/Jun20/8464/B/1H
+
+9
+0 2 . 4
+
+Do not write
+outside the
+box
+
+What type of blood vessel is labelled X?
+
+[1 mark]
+
+Tick () one box.
+Artery
+Capillary
+Vein
+
+0 2 . 5
+
+The real length of one villus is 0.8 mm
+Calculate the image length if the villus is viewed at a magnification of ×20
+Use the equation:
+magnification =
+
+size of image
+size of real object
+
+Image length =
+
+[3 marks]
+
+mm
+
+Question 2 continues on the next page
+
+Turn over ►
+
+*09*
+
+IB/M/Jun20/8464/B/1H
+
+10
+Do not write
+outside the
+box
+
+Figure 3 shows two cells from the surface of a villus.
+There are sugar molecules inside and next to each cell.
+Figure 3
+
+0 2 . 6
+
+Name the process by which sugar moves into cell A.
+
+0 2 . 7
+
+Name the process by which sugar moves into cell B.
+
+0 2 . 8
+
+Give one use of sugar in the body.
+
+*10*
+
+[1 mark]
+
+[1 mark]
+
+[1 mark]
+
+IB/M/Jun20/8464/B/1H
+
+11
+0 2 . 9
+
+Do not write
+outside the
+box
+
+Figure 2 is repeated below.
+Figure 2
+
+Explain how villi are adapted for efficient absorption of sugar molecules.
+
+[4 marks]
+
+14
+
+Turn over ►
+
+*11*
+
+IB/M/Jun20/8464/B/1H
+
+12
+Do not write
+outside the
+box
+
+0 3
+
+Being overweight can affect the health and life expectancy of a person.
+
+0 3 . 1
+
+Give one disease related to being overweight.
+
+0 3 . 2
+
+Body mass index (BMI) helps to show if a person has a healthy body mass for
+their height.
+
+[1 mark]
+
+BMI is calculated using the equation:
+BMI =
+
+body mass in kg
+(height in m)2
+
+A woman has a BMI of 27 and a body mass of 68.1 kg
+Calculate the woman’s height in metres.
+
+[3 marks]
+
+Height =
+
+*12*
+
+m
+
+IB/M/Jun20/8464/B/1H
+
+13
+0 3 . 3
+
+Do not write
+outside the
+box
+
+Figure 4 shows a height-body mass chart for adults.
+Figure 4
+
+Which weight category describes the woman in Question 03.2?
+Tick () one box.
+
+[1 mark]
+
+Underweight
+Healthy weight
+Overweight
+Obese
+
+Turn over ►
+
+*13*
+
+IB/M/Jun20/8464/B/1H
+
+14
+0 3 . 4
+
+People are encouraged to control their body mass with diet and exercise.
+Describe how the balance between the mass of food eaten and the amount of
+exercise a person does controls body mass.
+[3 marks]
+
+*14*
+
+IB/M/Jun20/8464/B/1H
+
+Do not write
+outside the
+box
+
+15
+0 3 . 5
+
+Do not write
+outside the
+box
+
+During long periods of vigorous exercise the body respires anaerobically.
+Explain the changes that happen in the body during and after vigorous exercise.
+[6 marks]
+
+14
+
+Turn over for the next question
+
+Turn over ►
+
+*15*
+
+IB/M/Jun20/8464/B/1H
+
+16
+0 4
+
+Cells are the basic units of all forms of life.
+
+0 4 . 1
+
+Describe four differences between a bacterial cell and a plant cell.
+
+Do not write
+outside the
+box
+
+[4 marks]
+
+1
+
+2
+
+3
+
+4
+
+0 4 . 2
+
+Gonorrhoea is a bacterial disease.
+A new vaccine is being developed against gonorrhoea.
+Describe how a vaccine would work to prevent gonorrhoea.
+
+*16*
+
+[4 marks]
+
+IB/M/Jun20/8464/B/1H
+
+17
+Do not write
+outside the
+box
+
+Another disease caused by bacteria is salmonella food poisoning.
+In the UK, chickens are vaccinated against Salmonella bacteria to reduce the number
+of cases of food poisoning in humans.
+0 4 . 3
+
+Explain how vaccinating chickens reduces the number of cases of salmonella
+food poisoning.
+[2 marks]
+
+0 4 . 4
+
+Give one way that the spread of salmonella food poisoning from one human to
+another is controlled.
+Do not refer to vaccination in your answer.
+
+0 4 . 5
+
+[1 mark]
+
+The number of cases of salmonella food poisoning is usually higher in summer than
+in winter.
+Suggest one reason why.
+
+[1 mark]
+
+12
+
+Turn over ►
+
+*17*
+
+IB/M/Jun20/8464/B/1H
+
+18
+Do not write
+outside the
+box
+
+0 5
+
+This question is about photosynthesis and food production.
+
+0 5 . 1
+
+How can oxygen production be used to show the rate of photosynthesis?
+
+[1 mark]
+
+Scientists investigated factors affecting the rate of photosynthesis in tomato plants.
+The tomato plants were growing in a commercial greenhouse in the UK during winter.
+Figure 5 shows the results.
+Figure 5
+
+The percentage of carbon dioxide in the Earth’s atmosphere is 0.04%
+
+0 5 . 2
+
+*18*
+
+Name the factor that is limiting the rate of photosynthesis at point X.
+
+[1 mark]
+
+IB/M/Jun20/8464/B/1H
+
+19
+Farmers growing tomatoes commercially try to control the rate of photosynthesis and
+make maximum profit.
+
+Do not write
+outside the
+box
+
+A farmer can control the temperature and carbon dioxide concentration in
+a greenhouse.
+0 5 . 3
+
+What is the minimum light intensity a farmer should use to get the maximum rate of
+photosynthesis shown in Figure 5?
+[1 mark]
+Light intensity =
+
+0 5 . 4
+
+The light intensity you gave in Question 05.3 may not give the farmer maximum profit.
+Explain why.
+
+0 5 . 5
+
+lux
+
+[3 marks]
+
+Explain the results when the light intensity was 0 lux.
+Use Figure 5.
+
+[4 marks]
+
+10
+
+Turn over ►
+
+*19*
+
+IB/M/Jun20/8464/B/1H
+
+20
+0 6
+
+New drugs are tested and trialled before they can be licensed to treat patients.
+Figure 6 shows how much time the different stages of testing took for one new drug.
+Figure 6
+
+0 6 . 1
+
+How much more time did the clinical trials take compared with the preclinical testing?
+[1 mark]
+Tick () one box.
+3 years
+3.5 years
+5 years
+6.5 years
+
+*20*
+
+IB/M/Jun20/8464/B/1H
+
+Do not write
+outside the
+box
+
+21
+During Phase 1 clinical trials low doses of the drug are tested on healthy volunteers.
+0 6 . 2
+
+Suggest one reason why low doses of the drug are used in Phase 1 clinical trials.
+[1 mark]
+
+0 6 . 3
+
+Suggest two reasons why healthy volunteers are used in Phase 1 clinical trials.
+[2 marks]
+1
+
+2
+
+0 6 . 4
+
+The results of clinical trials can only be published after peer review by other scientists.
+Suggest one reason why the results must be reviewed by other scientists.
+
+[1 mark]
+
+Question 6 continues on the next page
+
+Turn over ►
+
+*21*
+
+IB/M/Jun20/8464/B/1H
+
+Do not write
+outside the
+box
+
+22
+0 6 . 5
+
+A drug is only licensed for the medical conditions it was tested to treat in the
+clinical trials.
+Drug regulations:
+• control what drugs a doctor can prescribe
+• ensure doctors can prescribe a drug with confidence
+• protect patients.
+AMD is an eye condition that can result in very poor vision.
+Doctors treat approximately 40 000 new cases of AMD each year.
+Two drugs licensed to treat AMD in the UK are drug A and drug B.
+In many other countries drug C is used to treat AMD. Drug C is only licensed in the
+UK to treat cancer.
+The cost per injection for each drug is:
+• drug A £561
+• drug B £800
+• drug C £28
+The number of injections required to treat AMD is the same for each drug.
+
+*22*
+
+IB/M/Jun20/8464/B/1H
+
+Do not write
+outside the
+box
+
+23
+In 2018 the High Court in the UK gave permission for drug C to be used to treat AMD.
+Evaluate the decision to allow the use of drug C to treat AMD in the UK.
+
+Do
+Do not
+not write
+write
+outside
+outside the
+the
+box
+box
+
+[6 marks]
+
+11
+
+END OF QUESTIONS
+
+*23*
+
+IB/M/Jun20/8464/B/1H
+
+24
+Do not write
+outside the
+box
+
+There are no questions printed on this page
+
+DO NOT WRITE ON THIS PAGE
+ANSWER IN THE SPACES PROVIDED
+
+*24*
+
+IB/M/Jun20/8464/B/1H
+
+25
+
+Question
+number
+
+*25*
+
+Do not write
+outside the
+box
+
+Additional page, if required.
+Write the question numbers in the left-hand margin.
+
+IB/M/Jun20/8464/B/1H
+
+26
+
+Question
+number
+
+*26*
+
+Do not write
+outside the
+box
+
+Additional page, if required.
+Write the question numbers in the left-hand margin.
+
+IB/M/Jun20/8464/B/1H
+
+27
+
+Question
+number
+
+*27*
+
+Do not write
+outside the
+box
+
+Additional page, if required.
+Write the question numbers in the left-hand margin.
+
+IB/M/Jun20/8464/B/1H
+
+28
+Do not write
+outside the
+box
+
+There are no questions printed on this page
+
+DO NOT WRITE ON THIS PAGE
+ANSWER IN THE SPACES PROVIDED
+
+Copyright information
+For confidentiality purposes, all acknowledgements of third-party copyright material are published in a separate booklet. This booklet is published after
+each live examination series and is available for free download from www.aqa.org.uk.
+Permission to reproduce all copyright material has been applied for. In some cases, efforts to contact copyright-holders may have been unsuccessful and
+AQA will be happy to rectify any omissions of acknowledgements. If you have any queries please contact the Copyright Team.
+Copyright © 2020 AQA and its licensors. All rights reserved.
+
+*28*
+
+*206g8464/b/1H*
+IB/M/Jun20/8464/B/1H
+
+

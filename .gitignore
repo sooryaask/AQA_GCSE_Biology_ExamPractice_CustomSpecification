@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# AQA PDFs — excluded due to copyright
+Paper_1/
+Paper_2/
+
+# Local Claude settings
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env

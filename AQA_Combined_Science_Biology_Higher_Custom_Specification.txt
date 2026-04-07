@@ -1,0 +1,1671 @@
+================================================================================
+AQA COMBINED SCIENCE: TRILOGY (8464)
+BIOLOGY HIGHER TIER — CUSTOM EXAM SPECIFICATION
+Based on analysis of ALL 16 past papers (Specimen + 2018–2024)
+Paper 1H and Paper 2H
+================================================================================
+
+HOW TO USE THIS DOCUMENT
+- Topics marked ⭐ are HIGH PRIORITY: appeared in 5 or more papers across both
+  papers and/or command words. Learn these first and in the most depth.
+- Frequency counts refer to the number of papers (out of 16 total) in which the
+  topic appeared as a question.
+- "6-marker" = extended prose question, always worth 6 marks, requires detailed,
+  structured answers using connective words ("this means that", "therefore", etc.)
+
+================================================================================
+PAPER 1 — TOPIC AREAS
+(Cell Biology | Organisation | Infection & Response | Bioenergetics)
+================================================================================
+
+--------------------------------------------------------------------------------
+TOPIC 1: CELL BIOLOGY
+--------------------------------------------------------------------------------
+
+1.1 CELL STRUCTURE — IDENTIFYING AND COMPARING CELLS ⭐
+Frequency: 8/8 Paper 1 papers (every single year)
+Command words: describe, give, name, identify, explain, suggest
+
+Sub-topics tested:
+- Matching cell structures (nucleus, plasmid, permanent vacuole, cell membrane,
+  cell wall, chloroplast, mitochondrion, ribosome) to cell types (prokaryotic,
+  eukaryotic, plant, animal)
+  * Appeared: 2018, Specimen
+- Identifying a plant cell, animal cell, and prokaryotic cell from diagrams
+  and giving a reason for each
+  * Appeared: Specimen
+- Listing DIFFERENCES between bacterial (prokaryotic) cells and eukaryotic
+  cells / plant cells / animal cells
+  * Appeared: 2019 (2 differences bacterial vs eukaryotic), 2020 (4 differences
+    bacterial vs plant), 2024 (3 differences prokaryotic vs eukaryotic)
+  * KEY FACTS TO KNOW: no nucleus (plasmid instead), no membrane-bound
+    organelles, smaller, cell wall (different composition), ribosomes present
+- Similarities between a bacterial cell and an animal cell
+  * Appeared: 2022 (cell membrane + cytoplasm)
+- Stating where plasmids are found / what plasmids are
+- Prokaryotic vs eukaryotic — standard comparison table
+
+EXAM TIP: Always include at least 4 differences between bacterial and plant cells.
+The most commonly missed point is that bacterial cells have no membrane-bound
+organelles (not just "no nucleus").
+
+1.2 MICROSCOPY ⭐
+Frequency: 8/8 Paper 1 papers
+
+Sub-topics tested:
+A) MAGNIFICATION CALCULATIONS
+- Calculate magnification from image size and real size
+  Formula: Magnification = image size / real size
+  * Appeared: 2018 (calculate magnification of drawing, 3 marks), 2019 (calculate
+    real length from magnification and image length, 4 marks), 2020 (calculate
+    image length from real size and magnification, 3 marks), 2021 (calculate ratio
+    of sizes from figure, 3 marks), 2024 (calculate magnification from special
+    slide, 5 marks), Specimen (calculate real size from magnification, 3 marks)
+- Units: always check — convert between mm, µm, nm, pm
+  * 2018: convert picograms to grams in standard form (1 mark)
+  * 2019: give answer in µm
+- Give answer to a specified number of significant figures (2 s.f., 3 s.f.)
+
+B) USING A LIGHT MICROSCOPE
+- Describe how to set up and focus a light microscope
+  * Appeared: 2018 (adjusting focus for blurry/out-of-focus slides), 2019 (describe
+    procedure to observe root hair cells at ×50 using a ×5 eyepiece, 4 marks)
+- Describe how to prepare a slide for viewing onion/plant cells
+  * Appeared: 2023 (describe method to estimate mean length of onion cells
+    using apparatus shown, 6 marks)
+
+C) LIGHT MICROSCOPE vs ELECTRON MICROSCOPE
+- Give one advantage of an electron microscope over a light microscope
+  * Appeared: 2020 (1 mark — greater magnification/resolution)
+- Identify type of microscope from an image
+  * Appeared: 2024 (electron microscope — reason: 3D image/detail at nanometre
+    scale, 1 mark)
+- Name the equipment used to view a virus
+  * Appeared: 2021 (electron microscope)
+
+KEY MAGNIFICATION FORMULA:
+Magnification = image size / real size
+(can be rearranged: real size = image size / magnification)
+
+1.3 CELL DIVISION — MITOSIS AND THE CELL CYCLE ⭐
+Frequency: 6/8 Paper 1 papers (2018, 2019, 2021, 2022, 2024, Specimen)
+Command words: describe, calculate, name, explain
+
+Sub-topics tested:
+A) STAGES OF THE CELL CYCLE
+- Describe what happens in each of the three stages
+  * Appeared: 2018 (5 marks — cell growth, DNA replication, mitosis/cell division)
+  * Appeared: 2022 (1 mark per stage, 3 marks total)
+- How many cell divisions are needed to form a 16-cell embryo from one cell?
+  * Appeared: 2022 (answer: 4 divisions)
+- How many chromosomes in each embryo cell after mitosis?
+  * Appeared: 2022 (answer: 46 chromosomes / 23 pairs)
+
+B) CALCULATING TIME IN MITOSIS
+- Using a pie chart/cell cycle diagram, calculate the time spent in mitosis
+  * Appeared: 2018 (2 marks, answer to 3 significant figures)
+
+C) IMPORTANCE OF MITOSIS
+- Give one way mitosis is important in fully grown animals
+  * Appeared: 2022 (repair/replacement of cells)
+- Describe the process of the cell cycle from a diagram of a dividing cell
+  * Appeared: 2024 (4 marks)
+
+D) GROWTH CURVES
+- Compare the growth of boys and girls using a graph of mean height vs age
+  * Appeared: 2022 (6-marker, must use data — rates, when growth rates differ,
+    when boys overtake girls, puberty timing, etc.)
+
+1.4 STEM CELLS ⭐
+Frequency: 5/8 Paper 1 papers (2018, 2019, 2021, 2022, 2024)
+Command words: give, explain, evaluate, suggest, describe
+
+Sub-topics tested:
+- Where stem cells are found in a plant (meristem/growing tips)
+  * Appeared: 2018 (1 mark), 2024 (which tissue will differentiate — meristem,
+    1 mark)
+- Economic use of plant stem cells (produce large numbers of identical plants)
+  * Appeared: 2018 (1 mark MCQ)
+- Therapeutic cloning — advantages and disadvantages
+  * Appeared: 2018 (4 marks — 2 advantages, 2 disadvantages)
+  * Advantages: cells genetically matched to patient (no rejection), can treat
+    many conditions
+  * Disadvantages: ethical issues, expensive, technically difficult
+- Explain why stem cells are used (can differentiate into any cell type)
+  * Appeared: 2021 (2 marks)
+- Advantages of using a patient's own stem cells vs embryonic stem cells
+  * Appeared: 2021 (2 marks — no rejection, no ethical issues)
+
+1.5 OSMOSIS ⭐
+Frequency: 6/8 Paper 1 papers (2018, 2019, 2020, 2021, 2024, Specimen-related)
+Command words: explain, calculate, plot, determine, suggest
+
+Sub-topics tested:
+A) OSMOSIS PRACTICAL — EFFECT OF CONCENTRATION ON PLANT TISSUE MASS
+This is the SINGLE MOST TESTED required practical in Paper 1.
+- Identify the independent variable (concentration of sugar/salt solution)
+  * Appeared: 2020 (1 mark MCQ), 2024 (1 mark MCQ)
+- Explain why percentage change in mass is calculated (to standardise/compare
+  pieces of different starting masses)
+  * Appeared: 2018 (1 mark)
+- Calculate percentage change in mass
+  Formula: % change = (change in mass / starting mass) × 100
+  * Appeared: 2020 (3 marks, answer to 3 s.f.)
+  * Appeared: 2024 (calculate % change X in table, 3 marks, to 1 d.p.)
+- Plot a graph of % change vs concentration; draw line of best fit
+  * Appeared: 2018 (4 marks), 2020 (2 marks), 2024 (3 marks)
+- Determine the concentration of solution inside the plant cells (where graph
+  crosses x-axis = 0% change in mass)
+  * Appeared: 2018 (1 mark), 2020 (1 mark), 2024 (1 mark)
+- Explain why mass changes (osmosis — water moves by osmosis down the water
+  potential gradient through the partially permeable membrane)
+  * Appeared: 2018 (4 marks for 0.6 mol/dm³ solution), 2020 (2 marks for
+    0.0 mol/dm³ solution — water potential higher outside, water moves in by osmosis)
+- Suggest why boiled potato pieces do not change mass
+  * Appeared: 2018 (1 mark — boiling denatures membrane proteins, cells no
+    longer have partially permeable membranes/cells are dead)
+- Explain why the outside of tubes is dried before reweighing
+  * Appeared: 2024 (1 mark)
+
+B) OSMOSIS IN DIALYSIS TUBING MODEL
+- Suggest which parts of the body the tubing and water represent
+  * Appeared: 2019 (small intestine/gut and blood/body fluid)
+
+C) NITRATE ION ABSORPTION — ACTIVE TRANSPORT
+- Explain what results about nitrate absorption show about the mechanism
+  (active transport requires oxygen/ATP)
+  * Appeared: 2019 (4 marks — absorption stops without oxygen, shows active
+    transport not diffusion)
+- Describe changes in rate of absorption from a table
+  * Appeared: 2019 (3 marks)
+- Describe how nitrate ions are used by plants (make amino acids → proteins,
+  needed for growth)
+  * Appeared: 2019 (3 marks)
+- Explain why a plant in flooded (waterlogged) soil cannot absorb enough
+  nitrate ions
+  * Appeared: Specimen (5 marks — no oxygen → no aerobic respiration →
+    no ATP for active transport)
+
+--------------------------------------------------------------------------------
+TOPIC 2: ORGANISATION
+--------------------------------------------------------------------------------
+
+2.1 THE DIGESTIVE SYSTEM AND ENZYMES ⭐
+Frequency: 8/8 Paper 1 papers (every year)
+Command words: name, describe, explain, calculate, plot, suggest
+
+Sub-topics tested:
+A) ENZYMES — pH AND AMYLASE INVESTIGATION (Most tested practical P1)
+- Name enzyme that digests starch: amylase
+  * Appeared: 2019 (1 mark), 2020 (1 mark)
+- Organs that produce amylase (salivary glands, pancreas, small intestine)
+  * Appeared: 2022 (1 mark MCQ)
+- Effect of pH on amylase activity:
+  * Determine the optimum pH from a graph
+    Appeared: 2022 (1 mark), Specimen (optimum pH 7.0–7.5)
+  * State independent variable (pH)
+    Appeared: 2022 (1 mark)
+  * Describe how student would know when starch is digested
+    (iodine stays orange/yellow = no starch)
+    Appeared: 2022 (1 mark)
+  * Read time taken for all starch to be digested from a graph
+    Appeared: 2022 (1 mark)
+  * Determine the rate of sugar production at a given time (tangent to curve)
+    Appeared: 2022 (4 marks)
+  * Explain how pH affects enzyme structure → activity (active site, denaturation)
+    Appeared: 2022 (6-marker)
+  * Suggest why a conclusion about optimum pH is not valid
+    Appeared: Specimen (2 marks)
+
+B) ENZYMES — TEMPERATURE EFFECTS
+- Effect of increasing temperature on rate of photosynthesis/enzyme activity
+  * Appeared: 2024 (describe effect from table, 3 marks)
+- Explain why no activity at high temperature (enzyme denatured, active site
+  shape changed, substrate cannot fit)
+  * Appeared: 2024 (2 marks), Specimen (3 marks)
+- Draw a line on a graph to show results at a higher temperature
+  * Appeared: Specimen (2 marks)
+- Effect of temperature on fermentation in yeast (2021 paper)
+  * Explain results at 2°C vs 35°C (4 marks + 3 marks)
+
+C) FOOD TESTS (REQUIRED PRACTICAL)
+- Describe how to test for sugar (Benedict's reagent, heat, brick red/orange)
+  * Appeared: 2019 (name reagent — Biuret/Benedict's), 2021 (6-marker — test
+    for protein, starch AND sugar, colours for positive results), 2024 (3 marks)
+- Describe how to test for starch (iodine → blue-black)
+  * Appeared: 2019, 2021, 2023, 2024
+- Describe how to test for protein (Biuret reagent → purple/lilac)
+  * Appeared: 2021, 2024 (2 marks)
+- Name reagents for starch and sugar tests
+  * Appeared: 2019 (2 marks)
+
+D) DIGESTION — PROCESSES AND ABSORPTION
+- Where are most food molecules absorbed? (small intestine)
+  * Appeared: 2020 (1 mark MCQ)
+- Name process by which sugar enters a cell by diffusion / active transport
+  * Appeared: 2020 (1 mark each)
+- Give one use of sugar in the body (energy from respiration)
+  * Appeared: 2020 (1 mark)
+- Describe how villi are adapted for efficient absorption
+  * Appeared: 2020 (4 marks — large surface area, thin walls, good blood supply,
+    microvilli, lacteal for fat)
+- Explain why starch has to be digested (too large to cross membrane)
+  * Appeared: 2023 (2 marks)
+- Describe how protein and fat are digested — enzymes and where produced
+  * Appeared: 2024 (6-marker — protease from stomach/pancreas/small intestine;
+    lipase from pancreas/small intestine; bile from liver, emulsifies fat)
+- Describe model experiment (dialysis tubing as small intestine, water = blood)
+  and explain results
+  * Appeared: 2019 (various sub-parts)
+
+E) STARCH DIGESTION INVESTIGATION USING COLORIMETER (2023)
+- Explain results of % light transmittance vs starch concentration
+  * Appeared: 2023 (3 marks)
+- Calculate mean rate of starch digestion (use two graphs)
+  * Appeared: 2023 (4 marks)
+- Explain how results would differ at pH 1 vs pH 7
+  * Appeared: 2023 (3 marks — lower pH, amylase denatured/less active, starch
+    digested more slowly)
+
+2.2 THE CIRCULATORY SYSTEM ⭐
+Frequency: 7/8 Paper 1 papers (2018, 2019, 2021, 2022, 2023, 2024, Specimen)
+Command words: explain, calculate, describe, evaluate, name
+
+Sub-topics tested:
+A) HEART STRUCTURE AND FUNCTION
+- Identify blood vessels on a diagram of the heart (aorta, pulmonary artery,
+  pulmonary vein, vena cava, coronary artery)
+  * Appeared: 2019, 2021 (multiple sub-questions)
+- Where is the pacemaker found? (right atrium / sinoatrial node)
+  * Appeared: 2019, 2023 (1 mark each)
+- Correct order of blood flow through the heart to lungs:
+  right atrium → right ventricle → pulmonary artery
+  * Appeared: 2021 (1 mark MCQ)
+- Which blood vessel carries blood at the highest pressure? (artery/aorta)
+  * Appeared: 2021 (1 mark MCQ)
+- Describe why the heart is a double pump
+  * Appeared: Specimen (1 mark)
+- Why is the heart described as an organ?
+  * Appeared: 2022 (1 mark — made of different tissues)
+- Explain effects if a heart valve develops a leak
+  * Appeared: 2022 (4 marks)
+- Evaluate biological vs mechanical heart valve replacement (for a specific patient)
+  * Appeared: 2022 (4 marks)
+- Cardiac output calculation:
+  Formula: cardiac output = stroke volume × heart rate
+  * Appeared: 2019 (3 marks — rearrange to find stroke volume X)
+- Explain why beta blockers cause breathlessness during exercise (using data)
+  * Appeared: 2019 (6-marker)
+
+B) CORONARY HEART DISEASE (CHD)
+- Explain what a non-communicable disease is
+  * Appeared: 2018 (2 marks)
+- Explain how CHD causes a heart attack (fatty deposits → blocked artery →
+  no oxygen to heart muscle cells → cells die)
+  * Appeared: 2018 (3 marks), 2024 (6-marker — causes, symptoms, GTN treatment)
+- Explain lifestyle and medical risk factors for CHD
+  * Appeared: 2018 (6-marker — smoking, diet, high blood pressure, family history,
+    statins, stents, exercise)
+- Evaluate statins vs stents to reduce risk of heart attack
+  * Appeared: 2021 (6-marker), Specimen (6-marker)
+- Explain why heart attack survivors get out of breath
+  * Appeared: 2021 (4 marks — damaged heart muscle, less cardiac output, less
+    oxygen delivered, respire anaerobically)
+
+C) BLOOD VESSELS
+- Describe structural differences between arteries and veins (excluding valves)
+  * Appeared: 2023 (2 marks)
+- Explain why veins have valves but arteries do not
+  * Appeared: 2023 (2 marks — low pressure in veins; valves prevent backflow)
+- Identify blood vessel types (artery/capillary/vein)
+  * Appeared: 2020 (1 mark MCQ)
+- Which blood vessel carries deoxygenated blood?
+  * Appeared: 2023 (1 mark MCQ — pulmonary artery)
+
+D) BLOOD COMPONENTS
+- Describe functions of platelets and plasma (the two non-RBC/WBC components)
+  * Appeared: Specimen (2 marks)
+- Identify which blood component produces antibodies (white blood cells)
+  * Appeared: 2022 (1 mark MCQ)
+- Identify which component starts the clotting process (platelets)
+  * Appeared: 2022 (1 mark MCQ)
+
+2.3 NON-COMMUNICABLE DISEASES — LIFESTYLE AND RISK FACTORS ⭐
+Frequency: 6/8 Paper 1 papers (2018, 2020, 2022, 2023, 2024, Specimen)
+Command words: describe, suggest, calculate, evaluate, give
+
+Sub-topics tested:
+- BMI calculation and interpretation
+  Formula: BMI = body mass (kg) / (height in m)²
+  * Appeared: 2020 (calculate height from BMI and mass, 3 marks), 2023
+    (calculate BMI category from given data, 3 marks)
+- Determine BMI category from chart/table (underweight/healthy/overweight/obese)
+  * Appeared: 2020 (1 mark MCQ)
+- Give one disease related to being overweight (type 2 diabetes, CHD, etc.)
+  * Appeared: 2020 (1 mark)
+- Describe how diet and exercise control body mass
+  * Appeared: 2020 (3 marks)
+- Effects of smoking and obesity on birth mass (data analysis from graph)
+  * Appeared: 2023 (2 conclusions from graph)
+- Give one non-communicable disease that obesity is a risk factor for
+  * Appeared: 2023 (1 mark)
+- Suggest a national policy to help people lose weight
+  * Appeared: 2023 (1 mark)
+- Describe why BMI was measured before pregnancy in a study
+  * Appeared: 2023 (1 mark)
+- Skin cancer data — new cases by age and sex:
+  * Why no new cases under 15? (takes many years to develop/accumulate
+    mutations from UV exposure)
+    Appeared: 2022 (2 marks)
+  * Describe trends in data
+    Appeared: 2022 (2 marks)
+  * Give conclusions
+    Appeared: 2022 (2 marks)
+  * Calculate number of people with skin cancer from rate per 100 000
+    Appeared: 2022 (3 marks — to 3 s.f.)
+- Describe similarities and differences between benign and malignant tumours
+  * Appeared: 2022 (4 marks), 2024 (explain what malignant tumour means, 3 marks)
+- Describe the cell cycle and relate to cancer
+  * Appeared: 2024 (4 marks)
+
+2.4 TRANSPORT IN PLANTS ⭐
+Frequency: 5/8 Paper 1 papers (2019, 2021, 2023, 2024, Specimen)
+Command words: describe, explain, name
+
+Sub-topics tested:
+- Describe how water is transported from soil to atmosphere through a plant
+  (root hair → osmosis → xylem → transpiration through stomata)
+  * Appeared: 2021 (4 marks)
+- Name the process that moves dissolved sugars through phloem: translocation
+  * Appeared: 2021 (1 mark)
+- Explain one way sieve tube cells are specialised (sieve plates allow flow)
+  * Appeared: 2021 (2 marks)
+- What does the structure of companion cells suggest about translocation?
+  (many mitochondria → uses ATP → active process)
+  * Appeared: 2021 (2 marks)
+- Describe why sugars must move both up and down in a plant
+  * Appeared: 2021 (3 marks — leaves produce glucose, must go to roots and growing
+    tips for storage and respiration)
+- Explain how xylem is adapted for water transport (no cell contents, lignified
+  walls, hollow tubes)
+  * Appeared: 2023 (2 marks)
+- Identify plant tissues from a diagram of a leaf section
+  * Appeared: 2023 (1 mark MCQ — epidermis)
+- Explain how spongy mesophyll is adapted for gas exchange
+  * Appeared: 2023 (3 marks — air spaces, large surface area)
+- Describe how stomata open (guard cells gain water by osmosis → become turgid →
+  cells bow out → stoma opens)
+  * Appeared: 2023 (2 marks)
+- Potometer investigation:
+  * Explain why narrow capillary is used (small bubble movement easier to see)
+    Appeared: 2019 (2 marks)
+  * Calculate rate of water uptake in mm³/min
+    Formula: volume = cross-sectional area × distance
+    Appeared: 2019 (3 marks)
+  * Plot data for different conditions; draw predicted line for dry/warm conditions
+    Appeared: 2019 (3 marks + 1 mark)
+  * Explain why bubble would not move in the dark
+    Appeared: 2019 (3 marks — no photosynthesis, stomata close, no transpiration)
+
+--------------------------------------------------------------------------------
+TOPIC 3: INFECTION AND RESPONSE
+--------------------------------------------------------------------------------
+
+3.1 PATHOGENS AND DISEASE ⭐
+Frequency: 8/8 Paper 1 papers (every year)
+Command words: name, describe, give, explain, suggest
+
+Sub-topics tested:
+A) TYPES OF PATHOGEN
+- Match diseases to their pathogen type (bacterium, virus, fungus, protist)
+  * Appeared: 2019 (malaria = protist), 2021 (match 3 diseases to pathogens),
+    2022 (salmonella = bacterium), 2023 (athlete's foot = fungus)
+- Specific diseases and pathogens to know:
+  * Measles — virus
+  * Malaria — protist (transmitted by mosquito)
+  * Gonorrhoea — bacterium
+  * Salmonella — bacterium
+  * Athlete's foot — fungus
+  * Tobacco mosaic virus — virus (affects plants)
+  * Rose black spot — fungus (affects plants)
+  * HIV/AIDS — virus
+  * Ebola — virus
+
+B) PREVENTING AND CONTROLLING DISEASE
+- Give two methods to prevent malaria, with reasons
+  * Appeared: 2019 (4 marks — mosquito nets, draining standing water, insecticides)
+- Explain how releasing sterile male mosquitoes reduces malaria spread
+  * Appeared: 2021 (2 marks)
+- How measles virus transfers person to person (droplet/airborne transmission)
+  * Appeared: 2023 (2 marks)
+- Suggest one way to reduce chance of catching athlete's foot
+  * Appeared: 2023 (1 mark)
+- Explain how vaccinating chickens reduces human salmonella cases
+  * Appeared: 2020 (2 marks — fewer infected chickens, less bacteria in food)
+- Give one way spread of salmonella between humans is controlled
+  * Appeared: 2020 (1 mark — hygiene, cooking thoroughly)
+- Why are cases of salmonella higher in summer?
+  * Appeared: 2020 (1 mark — warm temperatures allow bacteria to multiply faster)
+
+C) PLANT DISEASES
+- Explain why plants infected with tobacco mosaic virus grow slowly
+  * Appeared: 2021 (3 marks — mosaic pattern on leaves, less chlorophyll, less
+    photosynthesis, less glucose for growth)
+
+3.2 THE IMMUNE SYSTEM AND VACCINATION ⭐
+Frequency: 8/8 Paper 1 papers (every year)
+Command words: explain, describe, evaluate, suggest, calculate
+
+Sub-topics tested:
+A) VACCINATION
+- Explain how a vaccine helps a person become immune
+  * Appeared: 2020 (4 marks — dead/weakened pathogen introduced, stimulates
+    WBCs to produce antibodies, memory cells formed, rapid response on second exposure)
+  * Appeared: 2024 (4 marks)
+- Explain why vaccinating large proportion of population reduces spread
+  (herd immunity)
+  * Appeared: 2018 (2 marks)
+- Explain differences in antibody production after vaccine vs actual infection
+  (using a graph — faster, greater response after second exposure due to memory cells)
+  * Appeared: 2018 (6-marker with graph data)
+- Suggest why actual number of measles cases may be higher than recorded
+  * Appeared: 2018 (1 mark — not all cases medically confirmed/reported)
+- Calculate percentage decrease in measles cases
+  * Appeared: 2018 (2 marks)
+- Suggest two ways to reduce spread of measles without vaccination
+  * Appeared: 2024 (2 marks)
+
+B) ANTIBIOTICS AND RESISTANCE
+- Name the first antibiotic developed: penicillin
+  * Appeared: 2022 (1 mark)
+- Suggest why concentration of bacteria kept rising after antibiotics started
+  * Appeared: 2022 (1 mark — not all bacteria killed immediately)
+- Suggest why doctors do not give antibiotics for minor infections
+  * Appeared: 2022 (1 mark — risk of resistance developing)
+- Where do mutations happen in a bacterial cell? (in the DNA/chromosome)
+  * Appeared: 2023 (1 mark)
+- Antibiotic disc (Kirby-Bauer) investigation:
+  * Explain evidence for resistance (no clear zone around disc)
+    Appeared: 2023 (2 marks)
+  * Suggest how method was improved to show non-resistance
+    Appeared: 2023 (2 marks — repeat, use different batch, check disc not faulty)
+  * Identify independent variable
+    Appeared: 2023 (1 mark MCQ)
+- Evaluate use of stem cells containing antibiotic vs stem cells alone
+  * Appeared: 2023 (4 marks)
+- Explain how antibiotic resistance evolves (natural selection)
+  (ALSO relevant to Paper 2 Ecology/Evolution — see below)
+
+C) DRUG DEVELOPMENT AND CLINICAL TRIALS
+- Stages of drug testing: preclinical (cells → animals) → Phase 1 (healthy
+  volunteers, low dose) → Phase 2 (patients) → Phase 3 (large clinical trial)
+  * Appeared: 2020 (reading a timeline graph, 1 mark MCQ)
+- Suggest why low doses are used in Phase 1
+  * Appeared: 2020 (1 mark — check for safety/side effects)
+- Suggest why healthy volunteers are used in Phase 1
+  * Appeared: 2020 (2 marks — can detect side effects without confounding
+    illness symptoms; ethical)
+- Importance of peer review
+  * Appeared: 2020 (1 mark), Specimen (1 mark)
+- Evaluate use of an unlicensed drug (drug C) for a different condition
+  (AMD vs cancer — cost, safety, ethics)
+  * Appeared: 2020 (6-marker), Specimen (6-marker)
+- Give three reasons why clinical trials are needed
+  * Appeared: 2024 (3 marks)
+- Explain why viruses cannot be treated with antibiotics
+  * Appeared: Specimen (1 mark)
+- Where do drugs originate from? (digitalis from foxgloves, penicillin from mould)
+  * Appeared: 2019 (1 mark MCQ — digitalis from foxgloves)
+
+--------------------------------------------------------------------------------
+TOPIC 4: BIOENERGETICS
+--------------------------------------------------------------------------------
+
+4.1 PHOTOSYNTHESIS ⭐
+Frequency: 8/8 Paper 1 papers (every year)
+Command words: describe, explain, calculate, plot, name, predict, suggest
+
+Sub-topics tested:
+A) THE EQUATION FOR PHOTOSYNTHESIS
+- Choose the correct balanced symbol equation:
+  6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂
+  * Appeared: 2018 (1 mark), 2021 (1 mark MCQ), 2022 (1 mark), 2024 (1 mark)
+- What type of reaction is photosynthesis? (endothermic)
+  * Appeared: 2018 (1 mark MCQ)
+- Why is light needed? (provides energy for reaction)
+  * Appeared: 2022 (1 mark)
+
+B) RATE OF PHOTOSYNTHESIS — INVESTIGATION (Required Practical)
+Pondweed/aquatic plant investigation — the MOST tested practical in P1 overall
+
+Variables and factors:
+- Identify independent variable (distance from lamp / temperature)
+  * Appeared: 2021 (1 mark MCQ)
+- How is oxygen production used to show rate? (count bubbles/measure volume)
+  * Appeared: 2020 (1 mark)
+- Calculate rate: bubbles per minute or volume per hour
+  * Appeared: 2021 (1 mark)
+- Plot data; draw line of best fit
+  * Appeared: 2021 (3 marks)
+- Predict number of bubbles at a greater distance (using inverse square law or
+  by reading from graph)
+  * Appeared: 2018 (2 marks), 2021 (1 mark)
+- Suggest two improvements to measure rate more accurately
+  (collect gas in a syringe, time for set volume of gas rather than count bubbles)
+  * Appeared: 2018 (2 marks)
+- Suggest improvements to make results more valid
+  * Appeared: 2021 (2 marks)
+- Explain why temperature must be kept constant
+  (temperature affects enzyme activity → rate of photosynthesis)
+  * Appeared: 2018 (2 marks)
+- Explain how increase in temperature would affect results
+  * Appeared: 2021 (2 marks)
+- Suggest one improvement so temperature does not increase (LED/heat filter)
+  * Appeared: 2021 (1 mark)
+- Inverse square law:
+  Formula: I ∝ 1/d²
+  Calculate how light intensity changes as distance doubles
+  * Appeared: 2018 (3 marks, must include calculations)
+- Describe how to change the method to investigate CO₂ concentration
+  * Appeared: 2018 (3 marks — vary NaHCO₃ concentration, control distance
+    and temperature)
+
+C) LIMITING FACTORS
+- Name the limiting factor at a particular point on a graph
+  * Appeared: 2020 (1 mark), Specimen (1 mark)
+- Explain why the minimum light intensity for maximum rate may not give
+  maximum profit (cost of lighting, other factors limiting)
+  * Appeared: 2020 (3 marks)
+- Explain results when light intensity = 0 (only respiration occurring, CO₂
+  released, O₂ absorbed)
+  * Appeared: 2020 (4 marks)
+- Read minimum light intensity for maximum rate from a graph
+  * Appeared: 2020 (1 mark)
+
+D) EFFECTS OF TEMPERATURE ON PHOTOSYNTHESIS
+- Describe effect of increasing temperature from a table
+  * Appeared: 2024 (3 marks — rate increases, then constant, then falls)
+- Explain why no gas produced at 45°C (enzymes denatured)
+  * Appeared: 2024 (2 marks)
+- Suggest reasons against using a heater at 25°C in a greenhouse
+  * Appeared: 2024 (2 marks — overheating, enzymes denatured above optimum,
+    stress on plants)
+
+E) PHOTOSYNTHESIS AND WAVELENGTH OF LIGHT
+- Investigate effect of different colours of light on photosynthesis
+  * Appeared: 2022 (4 marks — method), Specimen (6-marker — full investigation
+    design)
+- Interpret graphs of absorbance/rate vs wavelength
+  * Appeared: 2022 (2 sub-questions — why data presented differently; suggest
+    wavelength range of green light)
+
+F) COMPENSATION POINT (GAS EXCHANGE COMBINED WITH PHOTOSYNTHESIS)
+- Explain overall CO₂/O₂ exchange at different light intensities (day/night)
+  * Appeared: 2023 (6-marker — at low light: respiration > photosynthesis, net
+    CO₂ release; at compensation point: balanced; at high light: net O₂ release)
+- Pond organism investigation — colour change of indicator with CO₂ levels
+  * Appeared: Specimen (2–3 marks)
+
+4.2 RESPIRATION ⭐
+Frequency: 5/8 Paper 1 papers (2020, 2021, 2023, 2024, Specimen)
+Command words: explain, describe
+
+Sub-topics tested:
+- Anaerobic respiration in yeast (fermentation):
+  Equation: glucose → ethanol + carbon dioxide
+  * Appeared: 2021 (given in stem)
+- Exothermic: what does exothermic mean? (releases energy/heat)
+  * Appeared: 2021 (1 mark)
+- Why oil layer is placed on yeast mixture (prevent oxygen entering → keep
+  conditions anaerobic)
+  * Appeared: 2021 (1 mark)
+- Why mixture left for 20 minutes before measuring (equilibrate to temperature)
+  * Appeared: 2021 (1 mark)
+- Explain results of yeast fermentation experiment at different temperatures
+  * Appeared: 2021 (3 marks + 4 marks)
+- Aerobic vs anaerobic during vigorous exercise:
+  * Explain changes during and after vigorous exercise (oxygen debt, lactic acid,
+    rapid breathing to repay oxygen debt)
+    Appeared: 2020 (6-marker)
+- Explain why person with emphysema (damaged alveoli) breathes faster
+  * Appeared: 2024 (4 marks — reduced surface area, less gas exchange, less O₂
+    to muscles, anaerobic respiration → need to breathe faster)
+
+================================================================================
+PAPER 2 — TOPIC AREAS
+(Homeostasis & Response | Inheritance/Variation/Evolution | Ecology)
+================================================================================
+
+--------------------------------------------------------------------------------
+TOPIC 5: HOMEOSTASIS AND RESPONSE
+--------------------------------------------------------------------------------
+
+5.1 THE NERVOUS SYSTEM ⭐
+Frequency: 7/8 Paper 2 papers (every year except 2022)
+Command words: describe, explain, name, calculate, suggest, evaluate
+
+Sub-topics tested:
+A) REFLEX ARCS
+- Name parts of a reflex arc (sensory neurone, relay neurone, motor neurone,
+  synapse, effector, receptor)
+  * Appeared: 2018 (name P and Q from diagram, 2 marks)
+- Compare how information travels along a neurone vs across a synapse
+  (electrical along neurone; chemical via neurotransmitter across synapse)
+  * Appeared: 2018 (2 marks)
+- Describe how stimulus reaches muscle in a reflex (stimulus → receptor →
+  sensory neurone → relay neurone → motor neurone → effector)
+  * Appeared: 2020 (4 marks)
+- Why does a conscious action take longer than a reflex action?
+  (information travels to brain and back → longer path)
+  * Appeared: 2018 (1 mark)
+- Explain why ruler-drop test does not involve a reflex (involves brain → conscious
+  decision to catch)
+  * Appeared: 2019 (2 marks)
+- Name the gap between neurones: synapse
+  * Appeared: 2021 (1 mark)
+
+B) REACTION TIME INVESTIGATION (Required Practical)
+This is the MOST tested required practical in Paper 2.
+- Describe how to do the ruler-drop test
+  * Appeared: 2019 (3 marks — hold ruler, release, catch, measure distance)
+- Calculate X from a table (value × concentration)
+  * Appeared: 2019 (1 mark)
+- Estimate reaction time from a lookup table
+  * Appeared: 2019 (1 mark)
+- Describe effect of caffeine on reaction time from a graph
+  * Appeared: 2019 (1 mark)
+- Why were some reaction time changes negative? (reaction time increased rather
+  than decreased — opposite effect for some students)
+  * Appeared: 2019 (1 mark)
+- State the range of results for one group
+  * Appeared: 2019 (1 mark)
+- Suggest control variables for the investigation
+  * Appeared: 2019 (2 marks), 2021 (1 mark)
+- Suggest sources of random error in the stopwatch method
+  * Appeared: 2021 (2 marks)
+- Why can't a mode be determined for the data?
+  * Appeared: 2021 (1 mark — all values are different/no repeated values)
+- Describe how mean was calculated (exclude anomalous value, add remaining,
+  divide by number of values)
+  * Appeared: 2021 (1 mark)
+- Describe a method to investigate whether dominant hand affects reaction time
+  * Appeared: 2020 (4 marks)
+- Calculate mean value from a table
+  * Appeared: 2020 (2 marks)
+- Identify dependent variable
+  * Appeared: 2020 (1 mark — reaction time)
+- Give evidence that supports/does not support a conclusion
+  * Appeared: 2020 (1 mark + 1 mark)
+- Calculate mass of caffeine consumed (volume × concentration)
+  * Appeared: 2019 (1 mark)
+
+C) HORMONES AND THE ENDOCRINE SYSTEM
+- Name the endocrine system as the organ system including glands
+  * Appeared: 2021 (1 mark)
+- Identify which gland produces insulin (pancreas)
+  * Appeared: 2021 (1 mark MCQ)
+- Identify which gland stimulates other glands (pituitary)
+  * Appeared: 2021 (1 mark MCQ)
+- How do hormones travel from gland to gland? (in the bloodstream)
+  * Appeared: 2021 (1 mark)
+- Name glands involved in human reproduction
+  * Appeared: 2021 (2 marks — ovaries/testes)
+- Label endocrine glands on a diagram
+  * Appeared: 2020 (3 marks — pancreas, adrenal, pituitary, thyroid, ovary)
+- Complete a table of hormones, glands, and target organs
+  (LH → pituitary → ovary; glucagon → pancreas → liver; adrenaline → adrenal)
+  * Appeared: 2020 (3 marks)
+- Which gland releases hormones to control other glands? (pituitary)
+  * Appeared: 2024 (1 mark MCQ)
+- Describe one other effect of adrenaline (increased blood flow to muscles)
+  * Appeared: 2024 (1 mark MCQ)
+- What type of cell detects changes? (receptor cells)
+  * Appeared: 2024 (1 mark)
+
+D) CAFFEINE, ADRENALINE AND THE NERVOUS SYSTEM
+- Explain how caffeine causes reaction time to decrease (caffeine blocks
+  adenosine receptors, more impulses pass, faster response)
+  * Appeared: 2021 (2 marks)
+- Explain role of adrenaline on heart rate → reaction time
+  * Appeared: 2021 (4 marks)
+
+5.2 BLOOD GLUCOSE CONTROL AND DIABETES ⭐
+Frequency: 7/8 Paper 2 papers (Specimen, 2018, 2019, 2020, 2022, 2023, 2024)
+Command words: explain, describe, calculate, evaluate, suggest, name
+
+Sub-topics tested:
+A) BLOOD GLUCOSE REGULATION — NEGATIVE FEEDBACK
+- Define homeostasis
+  * Appeared: 2019 (2 marks)
+- Name the hormone released if blood glucose falls too low (glucagon)
+  * Appeared: 2019 (1 mark)
+- Name the type of control shown in a diagram (negative feedback)
+  * Appeared: 2022 (1 mark)
+- Name the two hormones that control blood glucose (insulin and glucagon)
+  * Appeared: 2022 (1 mark each)
+- Explain how the two hormones keep blood glucose within normal range for
+  3 hours after a meal
+  * Appeared: 2022 (6-marker — insulin released, glucose → glycogen in liver,
+    blood glucose falls; if too low, glucagon released, glycogen → glucose)
+- Describe how blood glucose is maintained in people without diabetes
+  * Appeared: 2024 (5 marks)
+- Explain how optimum blood glucose concentration could affect reaction time
+  * Appeared: 2024 (2 marks)
+
+B) DIABETES INVESTIGATION AND DATA
+- Interpret glucose tolerance test graph for Person A and B
+  * Appeared: 2019 (3 marks — describe how graph shows Person B has diabetes)
+- Determine type of diabetes from insulin levels in blood
+  * Appeared: 2019 (2 marks — Type 2 = high insulin/insulin resistance; Type 1 =
+    low/no insulin)
+- Calculate rate of increase of blood glucose
+  * Appeared: Specimen (2 marks — units/h)
+- Explain why blood glucose concentration changes 30 min after drinking glucose
+  (insulin released, glucose converted to glycogen)
+  * Appeared: Specimen (2 marks)
+- Evaluate two systems of monitoring/controlling blood glucose (finger prick vs
+  continuous monitor)
+  * Appeared: Specimen (4 marks)
+- Explain body's response to too much insulin (blood glucose falls, glucagon
+  released, glycogen → glucose; liver, counter-regulatory response)
+  * Appeared: Specimen (5 marks)
+- Why people with Type 1 diabetes were used in glucose/reaction time experiment
+  * Appeared: 2024 (2 marks — can manipulate their blood glucose levels without
+    their body self-regulating)
+- Describe why research in 2024 was important (homeostasis — normal range
+  needed for brain/reaction time function)
+  * Appeared: 2024 (2 marks)
+
+C) MENSTRUAL CYCLE AND REPRODUCTIVE HORMONES ⭐
+Frequency: 6/8 Paper 2 papers (Specimen, 2018, 2019, 2020, 2021, 2022, 2023)
+Command words: describe, explain, name, calculate, evaluate
+
+Sub-topics tested:
+- Sequence of hormone interactions in the menstrual cycle
+  (FSH → follicle matures → oestrogen → LH → ovulation → progesterone →
+  maintains uterus lining)
+  * Appeared: 2018 (5 marks — name where each hormone is produced)
+  * Appeared: 2020 (complete table of LH gland and target organ, 3 marks)
+- Calculate rate of increase in LH concentration from a graph
+  * Appeared: 2018 (2 marks — in arbitrary units per hour, to 2 s.f.)
+- Which hormone stimulates ovulation? (LH — detected by ovulation test kits)
+  * Appeared: 2021 (1 mark MCQ)
+- Advantage of progesterone patch vs oral contraceptive
+  * Appeared: 2018 (1 mark — not digested/absorbed more consistently)
+- Evaluate new male contraceptive vs existing methods
+  * Appeared: 2021 (6-marker)
+
+D) FERTILITY TREATMENT — IVF ⭐
+Frequency: 6/8 Paper 2 papers (Specimen, 2019, 2020, 2022, 2023, 2024)
+Command words: describe, explain, suggest, evaluate
+
+Sub-topics tested:
+- Which hormones are given in IVF? (FSH and LH)
+  * Appeared: 2023 (1 mark MCQ), 2022 (FSH then LH explained, 3 marks)
+- Name the target organ of hormones in IVF (ovaries)
+  * Appeared: 2023 (1 mark)
+- Describe why microscopes are needed in IVF (to check eggs are fertilised)
+  * Appeared: 2023 (1 mark)
+- Describe how FSH and LH help a woman become pregnant
+  * Appeared: 2022 (3 marks)
+- Describe the remaining steps in IVF after hormone injection
+  (eggs collected, fertilised with sperm in vitro, embryos checked, one/two
+  implanted in uterus)
+  * Appeared: 2022 (4 marks), 2024 (4 marks)
+- Describe how IVF hormones interact with other hormones to prepare for pregnancy
+  * Appeared: 2023 (3 marks — FSH causes follicle to mature, oestrogen builds
+    up uterus lining, LH triggers ovulation, progesterone maintains lining)
+- Calculate ratio of successful to unsuccessful IVF
+  * Appeared: 2023 (2 marks)
+- Suggest one factor affecting probability of successful IVF
+  * Appeared: 2023 (1 mark — age)
+- Give two arguments against IVF
+  * Appeared: 2023 (2 marks)
+- Reasons to choose IVF screening method 1 vs method 2
+  * Appeared: 2020 (3 marks)
+- Advantage of IVF embryo screening method 2
+  * Appeared: 2020 (1 mark)
+- Describe three differences between meiosis (sperm cells) and mitosis (liver cells)
+  * Appeared: 2022 (3 marks)
+
+5.3 TEMPERATURE HOMEOSTASIS
+Frequency: 3/8 Paper 2 papers (2023, Specimen-adjacent)
+Command words: explain, calculate, describe
+
+Sub-topics tested:
+- Give one other internal condition controlled by homeostasis (blood glucose,
+  water content)
+  * Appeared: 2023 (1 mark)
+- Explain why body temperature control is important (enzymes work best at
+  optimum temperature; prevent denaturation)
+  * Appeared: 2023 (2 marks)
+- Calculate mean rate of body temperature decrease per hour
+  * Appeared: 2023 (2 marks)
+- Calculate body temperature at which hypothermia begins (% decrease)
+  * Appeared: 2023 (4 marks — must show working)
+- Which gland secretes hormones to stimulate the adrenal glands? (pituitary)
+  * Appeared: 2023 (1 mark)
+- Explain role of adrenal glands when body temperature falls
+  (adrenaline released → increased metabolic rate → more heat produced)
+  * Appeared: 2023 (5 marks)
+- Explain how the thyroid gland controls response to decreased temperature
+  by negative feedback
+  * Appeared: 2023 (3 marks)
+- How thyroid hormone controls basal metabolic rate
+  * Appeared: 2024 (2 marks)
+
+--------------------------------------------------------------------------------
+TOPIC 6: INHERITANCE, VARIATION AND EVOLUTION
+--------------------------------------------------------------------------------
+
+6.1 DNA, GENES AND INHERITANCE ⭐
+Frequency: 7/8 Paper 2 papers (Specimen, 2018, 2019, 2020, 2021, 2022, 2023, 2024)
+Command words: describe, name, explain, complete, determine
+
+Sub-topics tested:
+A) DNA STRUCTURE AND GENETIC TERMS
+- Describe the structure of a DNA molecule (double helix, complementary base pairs,
+  sugar-phosphate backbone)
+  * Appeared: 2020 (1 mark)
+- Which diagram represents a DNA molecule?
+  * Appeared: 2020 (1 mark MCQ)
+- A gene codes for a particular sequence of (amino acids) making a specific (protein)
+  * Appeared: 2020 (2 marks — complete the sentences)
+- Define genome (the complete DNA/genetic information of an organism)
+  * Appeared: 2020 (1 mark)
+- Correct order of size: gene < chromosome < nucleus < cell
+  * Appeared: 2022 (1 mark)
+- What is a mutation? (a change in the DNA)
+  * Appeared: Specimen (1 mark)
+- Suggest how a mutation causes a different colour/protein
+  (mutation → different amino acid sequence → different protein structure →
+  different function)
+  * Appeared: Specimen (1 mark), 2024 (2 marks)
+
+B) VARIATION
+- Define/name the term for differences in characteristics between individuals
+  (variation)
+  * Appeared: 2020 (1 mark)
+- Give two reasons why sexual reproduction causes variation in offspring
+  (random fertilisation; crossing over/independent assortment during meiosis)
+  * Appeared: 2023 (2 marks)
+
+C) GENETIC CROSSES AND PUNNETT SQUARES ⭐
+Frequency: 7/8 Paper 2 papers
+Command words: determine, draw, complete, identify
+
+Sub-topics tested:
+- Sex determination — complete a Punnett square for sex
+  * Appeared: 2020 (2 marks)
+- Why all children in a family can be the same sex
+  * Appeared: 2020 (1 mark — chance)
+- Cystic fibrosis (recessive) — draw Punnett square, calculate probability
+  * Appeared: 2020 (4 marks — symbols T and t)
+- Polydactyly (dominant) — determine probability offspring will have disorder
+  * Appeared: 2023 (5 marks — include completing Punnett square, identifying
+    phenotype of each genotype)
+- Punnett square for a genetic disorder in a family — identify genotypes from
+  pedigree chart
+  * Appeared: 2021 (6 marks), 2024 (5 marks)
+- Define 'heterozygous'
+  * Appeared: 2021 (1 mark)
+- Identify genotype as heterozygous from a pedigree
+  * Appeared: 2024 (1 mark MCQ)
+- Describe how a pedigree chart shows an allele is recessive
+  * Appeared: 2024 (1 mark)
+- Blue/brown colour in carp — Punnett square, calculate number of blue offspring
+  in standard form
+  * Appeared: Specimen (5 marks)
+- Describe a test cross to determine if organism is BB or Bb
+  * Appeared: Specimen (2 marks)
+- Explain how polydactyly could suddenly occur without parental alleles
+  (mutation)
+  * Appeared: 2021 (4 marks)
+
+D) MEIOSIS
+- Which two statements are true for meiosis?
+  (parent cell divides twice; four daughter cells formed)
+  * Appeared: 2020 (2 marks MCQ)
+- Describe type of cell division that produces gametes (meiosis)
+  * Appeared: 2018 (3 marks — halves chromosome number, produces 4 cells,
+    genetically different)
+  * Appeared: 2023 (1 mark — name only)
+- How is a gamete different from other cells? (contains half the number of
+  chromosomes)
+  * Appeared: 2024 (1 mark MCQ)
+
+6.2 EVOLUTION BY NATURAL SELECTION ⭐
+Frequency: 7/8 Paper 2 papers (Specimen, 2018, 2019, 2020, 2021, 2023, 2024)
+Command words: describe, explain, evaluate, suggest
+
+Sub-topics tested:
+A) THE PROCESS OF NATURAL SELECTION / EVOLUTION
+- Explain the process of evolution by natural selection (variation exists in a
+  population; some individuals have advantageous alleles; they are more likely to
+  survive and reproduce; pass on allele to offspring; allele frequency increases)
+  * Appeared: 2021 (6-marker — evolution of longer beak length in birds)
+  * Appeared: Specimen (5 marks — evolution of large antlers in moose)
+  * Appeared: 2019 (4 marks — evolution of bright purple flowers from ancestral
+    species)
+- Describe how a new species with different features may have evolved from an
+  ancestral species
+  * Appeared: 2019 (4 marks)
+- Explain why evolution is easier to study in short-lived, prolific organisms
+  * Appeared: 2021 (3 marks — short generation time, many offspring, more
+    genetic variation per unit time)
+- Explain trends in warfarin resistance in a rat population (warfarin applied →
+  non-resistant die → resistant reproduce → resistance increases; warfarin removed
+  → smaller resistant rats at disadvantage in competition → resistance decreases)
+  * Appeared: 2024 (6-marker with data table)
+- Suggest why increasing numbers of similar organisms occur in future generations
+  (natural selection — advantageous mutation → more survive/reproduce)
+  * Appeared: 2020 (2 marks)
+- Suggest evidence that two individual birds are the same species
+  * Appeared: 2021 (3 marks — can interbreed to produce fertile offspring; same
+    chromosome number; similar DNA sequences)
+
+B) ANTIBIOTIC RESISTANCE AS AN EXAMPLE OF EVOLUTION
+- Explain advice to doctors to prevent spread of resistant bacteria
+  * Appeared: 2018 (6-marker)
+- Explain how evolution of antibiotic resistant bacteria can be slowed
+  * Appeared: 2023 (6-marker — prescribe less, complete courses, rotate
+    antibiotics, good hygiene)
+- Explain widespread use of antibiotics in farming as a threat to human life
+  * Appeared: 2020 (4 marks)
+
+C) AMINO ACID SEQUENCES AND EVOLUTIONARY RELATIONSHIPS
+- Use amino acid sequences to determine which species is most closely related
+  to an ancestral species
+  * Appeared: 2019 (2 marks — fewest differences = most closely related)
+
+D) SELECTIVE BREEDING ⭐
+Frequency: 4/8 Paper 2 papers (2018, 2023, Specimen, 2024-adjacent)
+Command words: describe, evaluate, explain
+
+Sub-topics tested:
+- Describe the steps in a selective breeding programme
+  (select individuals with desired characteristics; breed them together;
+  select best offspring; repeat over many generations)
+  * Appeared: 2018 (4 marks), 2023 (3 marks)
+- Explain advantages of selective breeding for farmers
+  * Appeared: 2023 (3 marks)
+- Explain the disadvantage of selective breeding (reduced gene pool/
+  reduced genetic variation → less variation to select from if environment
+  changes → risk of extinction)
+  * Appeared: 2023 (2 marks)
+
+E) GENETIC ENGINEERING ⭐
+Frequency: 4/8 Paper 2 papers (2018, 2019, 2024, Specimen)
+Command words: describe, explain, evaluate
+
+Sub-topics tested:
+- Vectors in genetic engineering:
+  * Identify two correct statements about vectors (used to insert genes into
+    cells; usually plasmids or viruses)
+    Appeared: 2019 (2 marks MCQ)
+- Give two examples of genetic engineering in use today
+  * Appeared: 2019 (2 marks — insulin production; golden rice; herbicide
+    resistance; disease resistance)
+- Explain why herbicide-resistant GM wheat gives higher yield
+  * Appeared: 2019 (3 marks — herbicide kills competing weeds, more light/
+    water/minerals for wheat, more growth)
+- Importance of the Human Genome Project / knowing the genome
+  * Appeared: 2019 (2 marks), 2020 (1 mark MCQ)
+- Explain why GM crop plants may be important for climate change
+  * Appeared: 2024 (6-marker — drought/disease resistance, more food, adapt
+    to new conditions)
+- Evaluate production of GM organisms (pros and cons)
+  * Appeared: 2018 (4 marks — for/against GM rice)
+
+6.3 FOSSILS, EXTINCTION AND CLASSIFICATION ⭐
+Frequency: 6/8 Paper 2 papers (2018, 2020, 2021, 2022, 2023, 2024, Specimen)
+Command words: describe, give, name, explain, calculate
+
+Sub-topics tested:
+A) THE THREE-DOMAIN SYSTEM
+- Describe the three-domain system (Archaea, Bacteria, Eukaryota)
+  * Appeared: 2018 (3 marks)
+- Suggest why microorganisms from extreme environments belong to Archaea
+  * Appeared: 2018 (1 mark)
+- Which domain is fungi classified in? (Eukaryota)
+  * Appeared: 2021 (1 mark)
+- Features of Archaea (survive extreme environments; cytoplasm contains DNA but
+  no membrane-bound nucleus; no cell wall or different cell wall to bacteria)
+  * Appeared: 2021 (2 marks MCQ), Specimen (2 marks)
+- Give three types of evidence now used to classify (DNA sequence, amino acid
+  sequence, biochemical analysis)
+  * Appeared: 2021 (3 marks)
+- Identify the genus name of an organism from a binomial name
+  * Appeared: 2023 (1 mark), 2024 (1 mark)
+- Advantages of the binomial naming system
+  * Appeared: Specimen (2 marks)
+- Complete a classification table for an organism
+  (Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species)
+  * Appeared: 2022 (2 marks for polar bear)
+- Type of classification group that eukaryota represents (Domain)
+  * Appeared: 2024 (1 mark MCQ)
+
+B) FOSSILS AND EXTINCTION
+- Why is the percentage of extinct species only an estimate?
+  (humans haven't found evidence of every species)
+  * Appeared: 2023 (1 mark MCQ)
+- What evidence is used to study extinct species? (fossils)
+  * Appeared: 2023 (1 mark)
+- Why was the fungus fossil important? (prevents decay; no oxygen)
+  * Appeared: 2021 (1 mark MCQ)
+- Calculate size of range of estimated age of fossil (in standard form)
+  * Appeared: 2021 (1 mark)
+- Draw line on timeline to show period that species existed
+  * Appeared: 2020 (1 mark)
+- Calculate how many more years one species existed than another
+  * Appeared: 2020 (2 marks)
+- Calculate percentage increase in species that became extinct
+  * Appeared: 2020 (3 marks)
+- Suggest why an accurate estimation of when a species existed is not known
+  * Appeared: 2021 (1 mark)
+
+C) ASEXUAL VS SEXUAL REPRODUCTION
+- Advantages/disadvantages of asexual reproduction for commercial growers
+  * Appeared: 2020 (2 marks + 2 marks)
+- Which statement is true for asexual reproduction? (offspring genetically identical)
+  * Appeared: 2024 (1 mark MCQ)
+- What process produces more cells as starfish grows? (mitosis)
+  * Appeared: Specimen (1 mark)
+- Genetically identical organisms are called: clones
+  * Appeared: Specimen (1 mark)
+
+--------------------------------------------------------------------------------
+TOPIC 7: ECOLOGY
+--------------------------------------------------------------------------------
+
+7.1 ECOSYSTEMS, COMMUNITIES AND FOOD CHAINS ⭐
+Frequency: 7/8 Paper 2 papers (Specimen, 2018, 2019, 2020, 2021, 2022, 2023, 2024)
+Command words: describe, give, suggest, explain, calculate, define
+
+Sub-topics tested:
+A) ECOLOGICAL TERMS
+- Define biodiversity
+  * Appeared: 2020 (1 mark)
+- Define ecosystem
+  * Appeared: 2024 (1 mark)
+- Give a food chain from named organisms
+  * Appeared: 2024 (1 mark), Specimen (1 mark — name secondary consumer)
+
+B) BIOTIC AND ABIOTIC FACTORS
+- Classify factors as biotic or abiotic
+  * Appeared: 2018 (2 marks — diseases/herbivores = biotic; temperature/water
+    = abiotic)
+- Name a biotic factor that may affect plant numbers
+  * Appeared: 2022 (1 mark), 2023 (1 mark)
+- Name an abiotic factor (moisture levels, temperature, light intensity)
+  * Appeared: 2023 (1 mark MCQ)
+- Explain how different biotic and abiotic factors cause uneven plant distribution
+  * Appeared: 2019 (6-marker)
+- Suggest two other biotic factors affecting a population (competition, disease,
+  predation)
+  * Appeared: Specimen (2 marks)
+
+C) PREDATOR-PREY CYCLES
+- Interpret a predator-prey cycle graph
+  * Appeared: Specimen (1 mark — how graph shows more moose than wolves in
+    2004 despite wolf line being above moose line)
+- Suggest why moose population decreased (more wolves → more predation)
+  * Appeared: Specimen (1 mark)
+- Evaluate what may happen to polar bear population in future
+  * Appeared: 2022 (4 marks — fewer seals, less food, reduced population)
+
+D) ECOSYSTEMS AND COMPETITION
+- Describe two ways animal species may be important for stability of a community
+  * Appeared: 2024 (2 marks)
+
+7.2 QUADRAT SAMPLING AND TRANSECTS ⭐
+Frequency: 7/8 Paper 2 papers (Specimen, 2018, 2019, 2020, 2021, 2022, 2023, 2024)
+Command words: describe, calculate, give, suggest, explain
+
+Sub-topics tested:
+A) USING QUADRATS TO ESTIMATE POPULATION SIZE
+- Describe how quadrats should be used to estimate population size
+  * Appeared: Specimen (4 marks), 2019 (improvements to validity — use random
+    method, more quadrats, 2 marks MCQ)
+- Calculate estimated population from mean per quadrat and area
+  Formula: Population = (mean per quadrat / quadrat area) × total area
+  * Appeared: 2019 (5 marks — in standard form to 2 s.f.), Specimen (2 marks)
+- Calculate total area sampled
+  * Appeared: 2018 (1 mark)
+- Suggest why the investigation was done quickly on the same day
+  * Appeared: 2018 (1 mark — to avoid conditions changing)
+- Suggest one improvement to the investigation
+  * Appeared: 2018 (1 mark)
+- Which species will only grow at high light intensity? (from data table)
+  * Appeared: 2018 (1 mark)
+- Describe the relationship between light intensity and plant cover using data
+  * Appeared: 2018 (2 marks)
+- Suggest a different factor that may have caused the distribution pattern
+  * Appeared: 2018 (2 marks)
+- Scientific name for equipment used: quadrat / light meter / transect tape
+  * Appeared: 2018 (2 marks)
+- Explain why throwing a quadrat is not random
+  * Appeared: 2024 (2 marks — bias introduced by throwing direction/strength)
+- Describe a random method for placing quadrats
+  * Appeared: 2024 (2 marks — random number generator for coordinates)
+- Calculate area of quadrat from dimensions
+  * Appeared: 2024 (2 marks)
+- Calculate number of times quadrat needed for a 2% sample
+  * Appeared: 2024 (2 marks)
+- Suggest one type of pollution affecting limpets
+  * Appeared: 2024 (1 mark — oil spill, chemical waste)
+
+B) USING TRANSECTS TO INVESTIGATE DISTRIBUTION
+- Describe a method to investigate plant distribution using a transect
+  * Appeared: 2023 (4 marks — place tape measure, record plant species/cover at
+    intervals using quadrats along transect)
+- Interpret transect/distance results from a graph
+  * Appeared: 2023 (1 mark MCQ)
+- Explain how hypothesis about plant distribution relates to light intensity
+  * Appeared: 2018 (3 marks)
+
+7.3 FOOD PRODUCTION AND FARMING ⭐
+Frequency: 5/8 Paper 2 papers (2018, 2019, 2020, 2022, 2023)
+Command words: evaluate, describe, suggest, explain
+
+Sub-topics tested:
+- Soil nitrate concentration and crop yield investigation:
+  * Identify control variables
+    Appeared: 2022 (2 marks)
+  * Plot graph (label y-axis, scale, plot data, line of best fit)
+    Appeared: 2022 (4 marks)
+  * Describe relationship between nitrate concentration and yield
+    Appeared: 2022 (2 marks — increases then decreases)
+  * Evaluate economic and environmental implications of using fertiliser
+    Appeared: 2022 (4 marks)
+- Explain environmental implications of increasing cattle farming
+  * Appeared: 2023 (6-marker — methane, deforestation, water pollution from
+    manure, land use for feed crops, biodiversity loss)
+- Intensive farming — suggest two ways it can damage the environment
+  * Appeared: 2020 (2 marks — eutrophication from fertiliser run-off; pesticide
+    poisoning of wildlife)
+- Explain how widespread use of antibiotics in farming threatens human life
+  (antibiotic resistance develops, spreads to humans, treatments fail)
+  * Appeared: 2020 (4 marks)
+- Use of peat — give use and explain why it is harmful
+  * Appeared: 2020 (1 mark use, 2 marks harm), 2021 (2 marks uses), Specimen
+    (2 marks — peat releases CO₂ when burned/disturbed, loses stored carbon)
+
+7.4 HUMAN IMPACT ON THE ENVIRONMENT ⭐
+Frequency: 6/8 Paper 2 papers (2018, 2019, 2020, 2021, 2022, 2023)
+Command words: describe, explain, evaluate, suggest
+
+Sub-topics tested:
+A) CLIMATE CHANGE AND GLOBAL WARMING
+- Name another greenhouse gas (methane, nitrous oxide, water vapour)
+  * Appeared: 2019 (1 mark)
+- Give two effects of climate change
+  * Appeared: 2019 (2 marks — sea level rise, extreme weather, habitat change,
+    species distribution shifts)
+- Describe carbon cycle through living organisms
+  * Appeared: 2019 (6-marker — CO₂ absorbed by plants in photosynthesis,
+    passed along food chains, released by respiration and decomposition)
+- Why do more people have water shortage now? (climate change → more deserts;
+  more people = more demand)
+  * Appeared: 2022 (2 marks MCQ)
+- Name processes in the water cycle
+  * Appeared: 2022 (5 marks — evaporation, condensation, precipitation,
+    transpiration, runoff)
+- Calculate people with water shortage from percentage (in standard form)
+  * Appeared: 2022 (3 marks)
+- Explain how microorganisms recycle carbon from fallen leaves
+  * Appeared: 2022 (4 marks — decompose/digest leaves, release CO₂ in
+    respiration, nutrients released into soil)
+- Explain why mixing peat with air releases CO₂ (aerobic decomposition by bacteria/
+  fungi; carbon in peat oxidised)
+  * Appeared: Specimen (4 marks)
+
+B) DEFORESTATION
+- Describe reasons for deforestation and its effects
+  * Appeared: 2020 (6-marker — cattle farming, crops, biofuels, land for housing;
+    effects: CO₂ released, less CO₂ absorbed, biodiversity loss, flooding)
+- Explain forests as "lungs of the planet" (correct and incorrect aspects)
+  * Appeared: 2020 (2 marks)
+
+C) WATER POLLUTION AND POLLUTION INDICATORS
+- Explain how human activities are polluting water
+  * Appeared: 2022 (6-marker — fertiliser run-off → eutrophication; oil spills;
+    sewage; industrial chemicals; plastic waste)
+- Interpret data on bacteria numbers and dissolved oxygen vs distance from
+  sewage source
+  * Appeared: 2024 (multiple sub-questions)
+- Explain why an inverse relationship conclusion is not supported by data
+  * Appeared: 2024 (2 marks — not proportional, as bacteria increase, oxygen
+    decreases but not proportionally)
+- Explain how decrease in dissolved oxygen affects an animal population
+  * Appeared: 2024 (3 marks — less O₂ → fish die → less food for otters →
+    otter population decreases)
+- Suggest one type of pollution affecting a population
+  * Appeared: 2024 (1 mark)
+
+D) BIODIVERSITY CONSERVATION
+- Describe trends in government spending on biodiversity conservation (from a graph)
+  * Appeared: 2021 (2 marks)
+- Calculate percentage decrease in spending
+  * Appeared: 2021 (3 marks — to 2 s.f.)
+- Give two uses of peat from peat bogs
+  * Appeared: 2021 (2 marks — compost/fuel)
+- Describe two ways to increase biodiversity in the UK
+  * Appeared: 2021 (2 marks — rewilding, reducing pesticides, creating wildlife
+    corridors, protecting habitats)
+- Explain environmental factors causing reduction in a wild population
+  * Appeared: 2018 (oyster population — 2 marks)
+- Evaluate production of a product (triploid oysters) — pros and cons
+  * Appeared: 2018 (6-marker)
+- Populations of organisms — monitoring using indicator species
+  * Appeared: 2024 (1 mark)
+
+================================================================================
+SECTION B: REQUIRED PRACTICALS — EXAMINER FOCUS
+================================================================================
+
+PAPER 1 REQUIRED PRACTICALS:
+
+RP1: MICROSCOPY ⭐
+- How tested: Calculate magnification; calculate real/image size; describe how to
+  use a light microscope; use an eyepiece graticule (referenced in 2023)
+- Years: Every paper 1 (Specimen, 2018, 2019, 2020, 2021, 2022, 2023, 2024)
+- Common marks: magnification calculation (3–5 marks), focusing procedure (1–4 marks)
+- Key formula: magnification = image size / real size
+
+RP2: FOOD TESTS ⭐
+- How tested: Describe the test for each food molecule; give the colour of
+  a positive result; name the reagent used
+- Years: 2019, 2021, 2023, 2024
+- Reagents and colours:
+  * Starch: iodine → blue-black (positive); remains yellow/orange (negative)
+  * Reducing sugar: Benedict's reagent + heat → brick red/orange (positive)
+  * Protein: Biuret reagent → purple/lilac (positive)
+  * Lipids: ethanol emulsion test → white milky emulsion (positive)
+
+RP3: ENZYME INVESTIGATION ⭐
+- How tested: Describe effect of pH/temperature on amylase; calculate rate;
+  read optimum from graph; explain using active site theory; use colorimeter data
+- Years: 2018, 2021, 2022, 2023, Specimen
+- Important points:
+  * Always explain in terms of active site shape and substrate fit
+  * At extremes of pH/temperature: active site shape changed → enzyme denatured
+  * Rate calculation: change in substrate concentration / time
+
+RP4: PHOTOSYNTHESIS — PONDWEED INVESTIGATION ⭐
+- How tested: Describe method; identify variables; calculate rate; plot data;
+  explain limiting factors; apply inverse square law; suggest improvements
+- Years: 2018, 2019, 2020, 2021, 2022, Specimen
+
+RP5: OSMOSIS INVESTIGATION ⭐
+- How tested: Identify independent variable; calculate % change in mass; plot
+  graph; determine isotonic concentration; explain results using osmosis theory
+- Years: 2018, 2020, 2024
+- Formula: % change in mass = (change in mass / starting mass) × 100
+
+PAPER 2 REQUIRED PRACTICALS:
+
+RP6: REACTION TIME — RULER DROP TEST ⭐
+- How tested: Describe the method; calculate values; suggest control variables;
+  identify random errors; calculate mean; interpret results; identify dependent/
+  independent variables
+- Years: 2018 (adjacent), 2019, 2020, 2021, Specimen
+
+RP7: QUADRAT/TRANSECT SAMPLING ⭐
+- How tested: Describe method for estimating population; calculate population
+  estimate; explain random sampling; interpret data from transects
+- Years: 2018, 2019, 2020, 2022, 2023, 2024, Specimen
+
+================================================================================
+SECTION C: MATHS SKILLS — ALL CALCULATIONS THAT APPEAR REPEATEDLY
+================================================================================
+
+⭐ = appears in 5+ papers
+
+1. MAGNIFICATION CALCULATION ⭐
+   Formula: magnification = image size / real size
+   (rearrange to find real size or image size)
+   Appeared: 2018, 2019, 2020, 2021, 2024, Specimen P1
+   Units: commonly µm; watch for conversions (mm → µm: × 1000)
+
+2. PERCENTAGE CHANGE IN MASS ⭐
+   Formula: % change = (change in mass / starting mass) × 100
+   Appeared: 2018, 2020, 2024 P1 osmosis practical
+   Note: answer may be negative (loss of mass)
+
+3. CARDIAC OUTPUT CALCULATION ⭐
+   Formula: cardiac output = stroke volume × heart rate
+   (rearrange to find stroke volume X)
+   Appeared: 2019 P1
+
+4. INVERSE SQUARE LAW (LIGHT INTENSITY) ⭐
+   Formula: I ∝ 1/d²
+   Appeared: 2018 P1 (must include calculations in answer)
+
+5. BMI CALCULATION ⭐
+   Formula: BMI = body mass (kg) / (height in m)²
+   (rearrange to find height from BMI and mass)
+   Appeared: 2020, 2023 P1
+
+6. RATE OF PHOTOSYNTHESIS / ENZYME REACTION ⭐
+   Formula: rate = change in quantity / time
+   Appeared: 2021 P1 (bubbles per minute), 2022 P1 (arbitrary units per minute),
+   2023 P1 (g/dm³ per minute), Specimen P1
+
+7. POPULATION SIZE ESTIMATE ⭐
+   Formula: estimated population = (mean number per quadrat / quadrat area) × total area
+   Appeared: 2019, 2024 P2, Specimen P2
+
+8. PERCENTAGE DECREASE / INCREASE ⭐
+   Formula: % change = (change / original) × 100
+   Appeared: 2018 P1 (measles cases), 2020 P2 (mass extinctions), 2021 P2
+   (biodiversity spending), 2022 P1 (skin cancer)
+
+9. RATE OF CHANGE FROM A GRAPH (gradient)
+   Formula: rate = change in y / change in x
+   Appeared: 2018 P2 (LH concentration, 2 marks), 2021 P2 (beak length,
+   3 marks), 2022 P2 (sea ice loss, 3 marks), 2023 P2 (body temperature)
+
+10. STANDARD FORM ⭐
+    Appeared: 2018 P1 (convert picograms to grams), 2019 P2 (population
+    estimate), 2020 P2 (mass extinctions), 2021 P2 (fossil age), 2022 P2
+    (water shortage), Specimen P2 (Punnett square offspring number)
+
+11. CALCULATING TIME FROM SPEED AND DISTANCE
+    Formula: time = distance / speed
+    Appeared: 2018 P2 (neurone signal — 3 marks, give in milliseconds)
+
+12. CALCULATING MEAN AND STATISTICAL MEASURES
+    - Mean: sum of values / number of values (excluding anomalous results)
+      Appeared: 2020 P2, 2021 P2
+    - Range: highest value − lowest value
+      Appeared: 2019 P2, 2023 P2
+
+13. RATIO CALCULATIONS
+    - Simplest ratio (e.g. successful:unsuccessful IVF)
+      Appeared: 2023 P2 (2 marks)
+    - Ratio of sizes from a diagram (scale calculation)
+      Appeared: 2021 P1
+
+14. RATE OF WATER UPTAKE IN POTOMETER
+    Formula: volume = cross-sectional area × distance bubble moves
+    Appeared: 2019 P1 (3 marks)
+
+15. SIGNIFICANT FIGURES — COMMON REQUIREMENT
+    - 2 significant figures: 2018 P2 (LH rate), 2020 P2 (mean), 2021 P2 (% decrease)
+    - 3 significant figures: 2018 P1 (time in mitosis), 2020 P1 (% change), 2022 P1
+      (skin cancer number)
+    - 1 decimal place: 2024 P1 (osmosis table value)
+
+================================================================================
+SECTION D: KEY COMMAND WORDS AND HOW TO ANSWER THEM
+================================================================================
+
+DESCRIBE
+- State facts in clear, logical order. Do not explain causes.
+- Example: "Describe the structure of a DNA molecule" → say what it is, not why.
+
+EXPLAIN
+- Give reasons. Link cause to effect using "because", "therefore", "this means".
+- Example: "Explain why..." → need mechanism, not just observation.
+
+SUGGEST
+- Apply your biological knowledge to an unfamiliar situation. There may be more
+  than one acceptable answer.
+
+CALCULATE
+- Show all working. Include units. Round to the significant figures asked.
+
+DETERMINE
+- Work out a value using information given (e.g. from a graph or table).
+
+EVALUATE
+- Give advantages AND disadvantages. Come to a conclusion. Use evidence.
+- 6-mark evaluations need: 2–3 points for, 2–3 points against, justified conclusion.
+
+COMPARE
+- Describe similarities AND differences. Use comparative language ("whereas", "however").
+- Must include data if graph/table is given.
+
+PREDICT
+- Use patterns in data to state what will happen under different conditions.
+
+GIVE A REASON
+- One specific biological reason. Must be causal.
+
+================================================================================
+SECTION E: SIX-MARK (EXTENDED PROSE) QUESTIONS — RECURRING THEMES
+================================================================================
+
+Paper 1 Six-Markers (6 marks each — appear every year):
+- 2018: (1) Lifestyle/medical risk factors for CHD; (2) Differences in antibody
+  production after vaccine vs actual measles infection
+- 2019: Why beta blockers cause breathlessness during exercise (using data)
+- 2020: (1) Explain changes during/after vigorous exercise (anaerobic respiration);
+  (2) Evaluate use of unlicensed drug C to treat AMD
+- 2021: (1) Evaluate statins vs stents to reduce heart attack risk;
+  (2) Compare growth of boys and girls using data
+- 2022: (1) Effect of pH on amylase — structure/active site explanation;
+  (2) Compare growth in boys vs girls
+- 2023: (1) Explain CO₂/O₂ exchange at three different light intensities
+- 2024: (1) Describe digestion of protein and fat — enzymes and where produced
+- Specimen: (1) Investigate effect of colour of light on photosynthesis rate;
+  (2) Evaluate unlicensed drugs/vaccines during Ebola outbreak
+
+Paper 2 Six-Markers (6 marks each — appear every year):
+- 2018: (1) Advice to doctors to prevent spread of resistant Pseudomonas;
+  (2) Evaluate production of triploid oysters
+- 2019: (1) Describe carbon cycle through living organisms; (2) Explain
+  distribution of daisy plants using biotic and abiotic factors
+- 2020: (1) Describe deforestation — reasons and effects; (2) Explain how
+  widespread antibiotic use in farming threatens human life
+- 2021: (1) Explain evolution of longer beaks through natural selection;
+  (2) Evaluate new male contraceptive vs existing methods
+- 2022: (1) Explain how insulin and glucagon keep blood glucose in normal range;
+  (2) Explain how human activities are polluting rivers, lakes and seas
+- 2023: (1) Explain how antibiotic resistance can be slowed; (2) Explain
+  environmental implications of increasing cattle farming
+- 2024: (1) Explain why GM crops may be important for climate change;
+  (2) Explain trends in warfarin resistance data
+
+PATTERN: Every 6-mark question either:
+(a) Asks you to EVALUATE (pros vs cons, with a conclusion), OR
+(b) Asks you to EXPLAIN a mechanism in full detail, OR
+(c) Asks you to DESCRIBE/COMPARE using data from a figure
+
+================================================================================
+SECTION F: RECURRING DATA SKILLS — WHAT EXAMINERS ALWAYS TEST
+================================================================================
+
+1. READING FROM GRAPHS ⭐
+- Reading specific values from line graphs (mark requires data from graph)
+- Identifying anomalous data points
+- Drawing a line of best fit (must pass through the spread of points)
+- Drawing a predicted line based on reasoning
+
+2. DRAWING AND COMPLETING GRAPHS ⭐
+- Choose a suitable scale and label for y-axis (if not provided)
+- Plot data accurately (within half a small square)
+- Draw a smooth line of best fit (not a dot-to-dot)
+- Appeared: 2018 P1, 2019 P1, 2019 P2, 2020 P1, 2021 P1, 2022 P2, 2024 P1
+
+3. GIVING CONCLUSIONS FROM DATA ⭐
+- "What conclusion can be made?" → state relationship using specific values
+- "Give two conclusions" → two separate, data-supported statements
+- Appeared: 2018 P2, 2022 P1, 2023 P1, 2024 P2
+
+4. DESCRIBING TRENDS ⭐
+- "Describe the relationship" → direction, rate, specific data values
+- Must include: direction of change, whether it is linear or not, any exceptions
+- Appeared: 2018 P2, 2019 P2, 2021 P2, 2022 P2, 2023 P2
+
+5. EXPERIMENTAL DESIGN QUESTIONS ⭐
+- "Identify the independent variable" → the variable being deliberately changed
+- "Identify the dependent variable" → the variable being measured
+- "Give two control variables" → all other variables kept constant
+- "Describe how to make the investigation valid" → controlled experiment
+- Appeared: almost every paper in at least one sub-question
+
+6. EVALUATING CONCLUSIONS ⭐
+- "Evaluate the student's conclusion" → support with evidence AND give limitations
+- Appeared: 2023 P1, 2024 P2
+
+================================================================================
+SECTION G: FREQUENTLY EXAMINED FACTS (Must Know These Exactly)
+================================================================================
+
+CELL BIOLOGY
+- Plant cells have: cell membrane, cell wall, cytoplasm, nucleus, chloroplast,
+  permanent vacuole, mitochondria
+- Animal cells have: cell membrane, cytoplasm, nucleus, mitochondria, ribosomes
+- Bacterial cells have: cell membrane, cell wall, cytoplasm, ribosomes, plasmid,
+  DNA (circular, no nucleus)
+- Prokaryotic cells: no nucleus, no membrane-bound organelles, smaller (1–10 µm)
+- Eukaryotic cells: membrane-bound nucleus, larger (10–100 µm)
+
+ENZYMES
+- Enzymes are biological catalysts made of protein
+- Active site is specific to one type of substrate (lock and key model)
+- Temperature above optimum: enzyme denatured, active site changes shape permanently
+- pH change: alters ionic bonds/hydrogen bonds → changes active site shape
+- Enzyme activity is highest at optimum pH and temperature
+
+PHOTOSYNTHESIS
+- Word equation: carbon dioxide + water → glucose + oxygen
+- Symbol equation: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂
+- Endothermic reaction (requires light energy)
+- Factors limiting rate: light intensity, CO₂ concentration, temperature
+
+RESPIRATION
+- Aerobic: glucose + oxygen → carbon dioxide + water (releases energy)
+- Anaerobic (animals): glucose → lactic acid
+- Anaerobic (yeast): glucose → ethanol + carbon dioxide
+
+VACCINATION
+- Vaccine contains dead/weakened/antigens of pathogen
+- Stimulates white blood cells to produce antibodies
+- Memory cells remain; rapid large response on second exposure
+- Herd immunity: enough people immune → pathogen cannot spread
+
+BLOOD GLUCOSE CONTROL
+- After eating: blood glucose rises → pancreas detects → insulin released →
+  cells take up glucose → glycogen stored in liver → blood glucose falls
+- If too low: pancreas detects → glucagon released → glycogen converted to
+  glucose → liver releases glucose → blood glucose rises
+
+MENSTRUAL CYCLE HORMONES
+- FSH: from pituitary; causes follicle to develop; stimulates oestrogen release
+- Oestrogen: from ovary; causes uterus lining to build up; inhibits FSH;
+  stimulates LH release
+- LH: from pituitary; causes ovulation (release of egg)
+- Progesterone: from corpus luteum; maintains uterus lining; inhibits FSH and LH
+
+NATURAL SELECTION (key steps for any question)
+1. Variation exists in the population (due to mutation/genetic variation)
+2. Individuals with advantageous variant survive better (natural selection)
+3. They are more likely to reproduce and pass on the allele
+4. Over many generations, the frequency of the advantageous allele increases
+
+CLASSIFICATION
+- Three-domain system: Archaea, Bacteria, Eukaryota
+- Linnean levels: Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species
+- Binomial naming: Genus species (e.g., Homo sapiens)
+
+================================================================================
+SECTION H: TOPIC FREQUENCY SUMMARY TABLE
+================================================================================
+
+PAPER 1 TOPICS — Times Appearing (out of 8 papers):
+- Microscopy / magnification calculation: 8/8 ⭐
+- Osmosis investigation (potato/carrot/tubing): 6/8 ⭐
+- Photosynthesis — rate investigation (pondweed): 8/8 ⭐
+- Photosynthesis — equation: 5/8 ⭐
+- Enzymes — pH effect on amylase: 5/8 ⭐
+- Digestion — enzymes and absorption: 7/8 ⭐
+- Food tests (Benedict's, biuret, iodine): 5/8 ⭐
+- Heart and blood vessels: 7/8 ⭐
+- Coronary heart disease / statins / stents: 6/8 ⭐
+- Vaccination and immunity: 7/8 ⭐
+- Pathogens — types and control: 8/8 ⭐
+- Antibiotics and resistance: 5/8 ⭐
+- Drug development / clinical trials: 5/8 ⭐
+- Cell structure comparison (prokaryotic vs eukaryotic): 6/8 ⭐
+- Cell cycle and mitosis: 5/8 ⭐
+- Stem cells: 4/8
+- Transport in plants (xylem/phloem/stomata): 4/8
+- Non-communicable disease / BMI: 5/8 ⭐
+- Respiration (anaerobic, oxygen debt): 4/8
+- Tumours (benign vs malignant): 3/8
+
+PAPER 2 TOPICS — Times Appearing (out of 8 papers):
+- Blood glucose regulation / diabetes: 7/8 ⭐
+- Menstrual cycle hormones: 6/8 ⭐
+- IVF and fertility treatment: 6/8 ⭐
+- Nervous system / reflex arcs: 7/8 ⭐
+- Reaction time investigation: 6/8 ⭐
+- Punnett squares / genetic disorders: 7/8 ⭐
+- Natural selection / evolution: 7/8 ⭐
+- Selective breeding: 4/8
+- Genetic engineering / GM organisms: 4/8
+- Classification / three-domain system: 6/8 ⭐
+- Fossils and extinction: 5/8 ⭐
+- Quadrat/transect sampling: 7/8 ⭐
+- Biotic and abiotic factors / plant distribution: 7/8 ⭐
+- Climate change and global warming: 5/8 ⭐
+- Carbon cycle and decomposition: 5/8 ⭐
+- Deforestation: 3/8
+- Water pollution / eutrophication: 4/8
+- Biodiversity conservation / peat bogs: 4/8
+- Predator-prey relationships: 3/8
+- Temperature homeostasis: 3/8
+- Asexual reproduction / cloning: 4/8
+- DNA structure and genome: 4/8
+
+================================================================================
+SECTION I: WHAT EXAMINERS TEST YEAR AFTER YEAR — EXAMINER'S FAVOURITE QUESTIONS
+================================================================================
+
+These question formats recur almost identically across multiple years:
+
+1. "Explain how a vaccine works to make someone immune" [4 marks]
+   Key points: dead/weakened pathogen → white blood cells → antibodies →
+   memory cells → rapid large response on re-exposure
+
+2. "Explain how CHD causes a heart attack" [3 marks]
+   Key points: fatty material in coronary arteries → reduces blood flow →
+   heart muscle cells do not receive enough oxygen → cells die
+
+3. "Describe the differences between a bacterial cell and a plant cell" [4 marks]
+   No nucleus/plasmid; no membrane-bound organelles; cell wall is different;
+   no chloroplast; no permanent vacuole; smaller size; circular DNA
+
+4. "Calculate the magnification of the drawing/image" [3–5 marks]
+   Formula: image size / real size. Units must match (convert if necessary).
+
+5. "Determine the concentration of solution inside the plant cells" [1 mark]
+   Read x-intercept from % change vs concentration graph.
+
+6. "Explain how insulin and glucagon keep blood glucose normal" [6 marks]
+   Full mechanism: detection by pancreas → hormone release → target organ
+   response → glycogen synthesis or breakdown → blood glucose normalised
+
+7. "Draw a Punnett square and calculate the probability" [4–6 marks]
+   Always: state parental genotypes, complete grid, identify affected genotypes,
+   state probability as fraction.
+
+8. "Describe how natural selection could lead to evolution of [trait]" [4–6 marks]
+   Always: variation, selection pressure, survival, reproduction, inheritance,
+   increasing allele frequency over generations.
+
+9. "Describe the effect of [variable] on rate of photosynthesis using data" [2–3 marks]
+   Must use specific numbers from the table/graph. State direction and magnitude.
+
+10. "Evaluate [treatment A] vs [treatment B]" [4–6 marks]
+    Always: pros of A, cons of A, pros of B, cons of B, justified conclusion.
+
+================================================================================
+END OF DOCUMENT
+AQA Combined Science: Trilogy Biology Higher — Custom Specification
+Based on: Specimen (2016), 2018, 2019, 2020, 2021, 2022, 2023, 2024
+Total papers analysed: 16 (8 Paper 1H + 8 Paper 2H)
+================================================================================

@@ -1,0 +1,770 @@
+Please write clearly in block capitals.
+Centre number
+
+Candidate number
+
+Surname
+Forename(s)
+Candidate signature
+
+H
+
+GCSE
+COMBINED SCIENCE: TRILOGY
+Higher Tier
+Biology Paper 2H
+Monday 11 June 2018
+
+Morning
+
+Time allowed: 1 hour 15 minutes
+
+Materials
+
+For Examiner’s Use
+
+For this paper you must have:
+• a ruler
+• a scientific calculator.
+
+Question
+
+Mark
+
+1
+2
+
+Instructions
+
+• Use black ink or black ball-point pen.
+• Fill in the boxes at the top of this page.
+• Answer all questions in the spaces provided.
+• Do all rough work in this book. Cross through any work you do not want to be
+marked.
+• In all calculations, show clearly how you work out your answer.
+
+3
+4
+5
+6
+7
+
+TOTAL
+
+Information
+
+• The maximum mark for this paper is 70.
+• The marks for questions are shown in brackets.
+• You are expected to use a calculator where appropriate.
+• You are reminded of the need for good English and clear presentation in your
+answers.
+
+*jun188464B2H01*
+IB/M/Jun18/E9
+
+8464/B/2H
+
+2
+0 1
+
+Many biotic and abiotic factors can affect the growth of plants.
+
+0 1 . 1
+
+Are the factors in Table 1 biotic or abiotic?
+
+Do not write
+outside the
+box
+
+[2 marks]
+
+Tick one box for each factor.
+Table 1
+Factor
+
+Biotic
+
+Abiotic
+
+Diseases
+Herbivores
+Temperature
+Water
+
+Two students investigated the effect of light intensity on the distribution of
+small plants.
+The plants are growing under a tree in a park.
+The students made the following hypothesis:
+‘As you move outwards from a tree there will be more plant growth.’
+0 1 . 2
+
+Explain why the students thought their hypothesis would be correct.
+
+[3 marks]
+
+*02*
+IB/M/Jun18/8464/B/2H
+
+3
+0 1 . 3
+
+Do not write
+outside the
+box
+
+The students used two pieces of equipment.
+Give the scientific name of each piece of equipment.
+
+[2 marks]
+
+A square frame measuring 0.5 m × 0.5 m
+An electronic device to measure light intensity
+This is the method used.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+Fix one end of a tape measure at the base of the tree.
+Fix the other end of the tape measure 11 metres from the tree.
+At 0 metres put the square frame on the ground.
+Identify all the plant species growing inside the frame.
+Estimate and record the percentage cover of each plant species.
+Measure the light intensity inside the frame.
+Put the square frame on the ground every 2 metres along the tape to 10 metres.
+Repeat steps 4 – 6 in every frame.
+
+Figure 1 shows the equipment in this investigation.
+Figure 1
+
+0 1 . 4
+
+Calculate the total area sampled.
+
+Total area sampled =
+
+[1 mark]
+
+m2
+
+Turn over ►
+
+*03*
+IB/M/Jun18/8464/B/2H
+
+4
+0 1 . 5
+
+The whole investigation was done as quickly as possible on the same day.
+Suggest one reason why.
+
+0 1 . 6
+
+Do not write
+outside the
+box
+
+[1 mark]
+
+Give one way the investigation could be improved.
+
+[1 mark]
+
+Table 2 shows the results.
+Table 2
+Distance from tree in metres
+
+0 1 . 7
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+Percentage cover of grass
+
+15
+
+50
+
+35
+
+16
+
+15
+
+15
+
+Percentage cover of plantain
+
+0
+
+5
+
+10
+
+40
+
+25
+
+30
+
+Percentage cover of daisy
+
+0
+
+0
+
+0
+
+4
+
+20
+
+10
+
+Percentage cover of clover
+
+1
+
+10
+
+25
+
+40
+
+40
+
+45
+
+Total percentage cover of plants
+
+16
+
+65
+
+70
+
+100
+
+100
+
+100
+
+Light intensity in arbitrary units
+
+37
+
+59
+
+150
+
+175
+
+>200 >200
+
+Which plant species in Table 2 will only grow at high light intensity?
+
+[1 mark]
+
+*04*
+IB/M/Jun18/8464/B/2H
+
+5
+0 1 . 8
+
+What conclusion can be made about the relationship between light intensity and the
+total percentage cover of plants?
+Use data from Table 2 in your answer.
+
+0 1 . 9
+
+Do not write
+outside the
+box
+
+[2 marks]
+
+Light intensity might not be the cause of this pattern of plant distribution.
+Suggest one different factor that may cause these results.
+Give one reason for your answer.
+
+[2 marks]
+
+Factor
+Reason
+
+15
+
+Turn over for the next question
+
+Turn over ►
+
+*05*
+IB/M/Jun18/8464/B/2H
+
+6
+0 2
+
+Do not write
+outside the
+box
+
+Pseudomonas bacteria cause infections in hospital patients.
+A new strain of Pseudomonas bacteria has evolved. This new strain can only be
+killed by one antibiotic called fluroquinolone.
+Scientists want to prevent the new strain of Pseudomonas from spreading in the
+human population.
+Explain the advice doctors should be given to prevent the spread of the new strain.
+[6 marks]
+
+6
+
+*06*
+IB/M/Jun18/8464/B/2H
+
+7
+0 3
+
+Scientists have removed microorganisms from inside rocks in caves in Mexico.
+The microorganisms have been trapped there for between 10 000 and 50 000 years.
+The caves are dark, very hot, humid and acidic.
+
+0 3 . 1
+
+Why are these microorganisms called extremophiles?
+Tick two boxes.
+
+[2 marks]
+
+They are thousands of years old
+They survive in high humidity
+They survive in high temperatures
+They survive in the dark
+They survive inside rocks
+They survive where it is acidic
+
+Question 3 continues on the next page
+
+Turn over ►
+
+*07*
+IB/M/Jun18/8464/B/2H
+
+Do not write
+outside the
+box
+
+8
+The microorganisms have been inactive for thousands of years but the scientists have
+reactivated them.
+Figure 2 shows the results of enzyme analysis on four enzymes, A, B, C and D.
+Three of the enzymes were from microorganisms found in the soil near the caves.
+One of the enzymes was from a reactivated microorganism from the caves.
+Figure 2
+
+0 3 . 2
+
+Which enzyme comes from the microorganism from the caves?
+Tick one box.
+A
+
+0 3 . 3
+
+B
+
+C
+
+Give the reasons for your answer to question 03.2
+
+[1 mark]
+
+D
+
+[1 mark]
+
+*08*
+IB/M/Jun18/8464/B/2H
+
+Do not write
+outside the
+box
+
+9
+0 3 . 4
+
+Carl Woese developed the ‘three-domain system’ of classification.
+Describe the ‘three-domain system’ of classification.
+
+0 3 . 5
+
+Do not write
+outside the
+box
+
+[3 marks]
+
+Most of the microorganisms from the caves were classified as belonging to the
+Archaea domain of the ‘three-domain system’.
+Suggest why.
+
+[1 mark]
+
+8
+
+Turn over for the next question
+
+Turn over ►
+
+*09*
+IB/M/Jun18/8464/B/2H
+
+10
+0 4
+
+Do not write
+outside the
+box
+
+This question is about the nervous system.
+Figure 3 shows a reflex arc.
+Figure 3
+
+0 4 . 1
+
+Name parts P and Q shown on Figure 3
+
+[2 marks]
+
+P
+Q
+
+0 4 . 2
+
+Compare how information is transferred along a neurone with how information is
+transferred across gap P.
+[2 marks]
+
+0 4 . 3
+
+Why does a conscious action take longer than a reflex action?
+
+[1 mark]
+
+*10*
+IB/M/Jun18/8464/B/2H
+
+11
+0 4 . 4
+
+Do not write
+outside the
+box
+
+Information travels at 120 metres per second in neurones.
+Calculate the time it would take for the information to travel 1.6 m along a neurone.
+Give your answer in milliseconds.
+
+[3 marks]
+
+Time =
+
+0 4 . 5
+
+ms
+
+Doctors tested people of different ages to time how long it took between touching a
+sharp pin and the arm muscle contracting.
+Table 3 shows the results.
+Table 3
+Age in years
+
+Time for muscle to contract
+in milliseconds
+
+30
+
+18.9
+
+40
+
+20.2
+
+50
+
+23.1
+
+60
+
+26.7
+
+70
+
+31.3
+
+80
+
+37.0
+
+Describe the relationship between age in years and time for the muscle to contract.
+[2 marks]
+
+10
+
+Turn over ►
+
+*11*
+IB/M/Jun18/8464/B/2H
+
+12
+0 5
+
+Do not write
+outside the
+box
+
+Read the following.
+In the 1950s farmers in India could not grow enough rice to feed the rapidly
+increasing population.
+At the International Rice Research Institute (IRRI) scientists began a selective
+breeding programme with 10 000 different varieties of rice plants.
+In 1966 the IRRI produced a new variety called IR8 which gave a yield of up to ten
+times the traditional varieties. IR8 has short stems and large rice grains.
+IR8 was grown by farmers all over India so people had enough to eat.
+
+0 5 . 1
+
+The IR8 variety of rice was produced by selective breeding.
+Describe the steps the scientists would have taken to produce IR8
+
+[4 marks]
+
+*12*
+IB/M/Jun18/8464/B/2H
+
+13
+0 5 . 2
+
+The IRRI has now developed several new varieties of genetically modified (GM)
+rice plants.
+
+Do not write
+outside the
+box
+
+Some people in India agree and some people disagree with GM varieties of rice
+being grown.
+Explain why.
+
+[4 marks]
+
+8
+
+Turn over for the next question
+
+Turn over ►
+
+*13*
+IB/M/Jun18/8464/B/2H
+
+14
+0 6
+
+Figure 4 shows how hormone concentrations vary during a normal human menstrual
+cycle if a woman does not become pregnant.
+Figure 4
+
+0 6 . 1
+
+Calculate the rate of increase in LH concentration between day 9 and day 12
+Give your answer in arbitrary units per hour.
+Give your answer to 2 significant figures.
+
+Rate =
+
+[2 marks]
+
+arbitrary units per hour
+
+*14*
+IB/M/Jun18/8464/B/2H
+
+Do not write
+outside the
+box
+
+15
+0 6 . 2
+
+Describe the sequence of hormone interactions in the menstrual cycle.
+Name where each hormone is produced.
+
+0 6 . 3
+
+Do not write
+outside the
+box
+
+[5 marks]
+
+Progesterone is used in some contraceptives.
+Suggest one advantage of using a progesterone patch rather than a
+progesterone oral contraceptive.
+
+[1 mark]
+
+8
+
+Turn over for the next question
+
+Turn over ►
+
+*15*
+IB/M/Jun18/8464/B/2H
+
+16
+Do not write
+outside the
+box
+
+There are no questions printed on this page
+
+DO NOT WRITE ON THIS PAGE
+ANSWER IN THE SPACES PROVIDED
+
+*16*
+IB/M/Jun18/8464/B/2H
+
+17
+0 7
+
+Do not write
+outside the
+box
+
+Many people eat shellfish called oysters.
+An oyster has 20 chromosomes in each body cell.
+
+0 7 . 1
+
+Which arrangement of chromosomes will a male oyster have in each body cell?
+[1 mark]
+Tick one box.
+One X and one Y chromosome and 8 pairs of other chromosomes
+Two X and two Y chromosomes and 8 pairs of other chromosomes
+One X and one Y chromosome and 9 pairs of other chromosomes
+Two X chromosomes and 9 pairs of other chromosomes
+
+0 7 . 2
+
+Oyster gametes only contain half the amount of DNA compared to a normal oyster
+body cell.
+Describe the type of cell division that produces gametes.
+
+[3 marks]
+
+Question 7 continues on the next page
+
+Turn over ►
+
+*17*
+IB/M/Jun18/8464/B/2H
+
+18
+Do not write
+outside the
+box
+
+Biologists have discovered a way to produce oysters that have three sets of
+chromosomes (triploid) instead of the usual two sets (diploid).
+The triploid oysters cannot reproduce and so they grow more quickly.
+Diploid oysters do not taste good in the reproductive season. Triploid oysters taste
+good all year.
+Figure 5 shows the chromosomes in a diploid cell and in a triploid cell.
+Only two sets of chromosomes are shown.
+Figure 5
+
+0 7 . 3
+
+Suggest why the triploid oysters are not able to reproduce.
+
+0 7 . 4
+
+Explain why the triploid oysters grow more quickly than the diploid oysters.
+
+[1 mark]
+
+[2 marks]
+
+*18*
+IB/M/Jun18/8464/B/2H
+
+19
+0 7 . 5
+
+The population of diploid oysters growing in the wild has reduced by over 80% in the
+last 20 years.
+
+Do not write
+outside the
+box
+
+Suggest two environmental factors which may be causing this reduction.
+Give a reason why each factor may be causing the reduction in the population.
+[2 marks]
+1
+
+2
+
+0 7 . 6
+
+Oyster farmers grow the triploid oysters from young seed oysters.
+The production of seed oysters involves the use of a chemical called cytochalasin B.
+Cytochalasin B has been shown to cause cancer in mice.
+Evaluate the production of triploid oysters for supermarkets and restaurants.
+
+[6 marks]
+
+15
+
+END OF QUESTIONS
+Turn over ►
+
+*19*
+IB/M/Jun18/8464/B/2H
+
+20
+Do not write
+outside the
+box
+
+There are no questions printed on this page
+
+DO NOT WRITE ON THIS PAGE
+ANSWER IN THE SPACES PROVIDED
+
+Copyright information
+For confidentiality purposes, from the November 2015 examination series, acknowledgements of third party copyright material will be published in a
+separate booklet rather than including them on the examination paper or support materials. This booklet is published after each examination series and is
+available for free download from www.aqa.org.uk after the live examination series.
+Permission to reproduce all copyright material has been applied for. In some cases, efforts to contact copyright-holders may have been unsuccessful and
+AQA will be happy to rectify any omissions of acknowledgements. If you have any queries please contact the Copyright Team, AQA, Stag Hill House,
+Guildford, GU2 7XJ.
+Copyright © 2018 AQA and its licensors. All rights reserved.
+
+*20*
+IB/M/Jun18/8464/B/2H
+
+
