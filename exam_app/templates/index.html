@@ -576,6 +576,75 @@
     .red-text { color: var(--red); }
     .amber-text { color: var(--amber); }
     .blue-text { color: var(--aqa-blue); }
+
+    /* ── Persistent Progress Panel ── */
+    .progress-panel {
+      margin: 1rem;
+      background: var(--aqa-blue);
+      border-radius: var(--radius);
+      padding: 1rem 1.1rem 1rem;
+      color: var(--white);
+    }
+
+    .progress-panel-title {
+      font-size: .68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      opacity: .75;
+      margin-bottom: .6rem;
+    }
+
+    .progress-big {
+      font-size: 2.4rem;
+      font-weight: 800;
+      line-height: 1;
+      margin-bottom: .15rem;
+    }
+
+    .progress-sub {
+      font-size: .75rem;
+      opacity: .8;
+      margin-bottom: .85rem;
+    }
+
+    .progress-bar-wrap {
+      background: rgba(255,255,255,.2);
+      border-radius: 99px;
+      height: 8px;
+      margin-bottom: .7rem;
+      overflow: hidden;
+    }
+
+    .progress-bar-inner {
+      height: 100%;
+      background: #fff;
+      border-radius: 99px;
+      transition: width .6s ease;
+    }
+
+    .progress-stats-row {
+      display: flex;
+      justify-content: space-between;
+      font-size: .72rem;
+      opacity: .85;
+      margin-bottom: .75rem;
+    }
+
+    .progress-reset {
+      width: 100%;
+      background: rgba(255,255,255,.15);
+      border: 1px solid rgba(255,255,255,.25);
+      color: var(--white);
+      border-radius: 6px;
+      padding: 4px 0;
+      font-size: .75rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background .15s;
+    }
+
+    .progress-reset:hover { background: rgba(255,255,255,.25); }
   </style>
 </head>
 <body>
@@ -597,6 +666,22 @@
 
   <!-- Sidebar -->
   <aside class="sidebar">
+
+    <!-- Persistent progress panel -->
+    <div class="progress-panel">
+      <div class="progress-panel-title">Overall Progress</div>
+      <div class="progress-big" id="progressPct">0%</div>
+      <div class="progress-sub" id="progressSubLabel">0 of {{ questions|length }} questions attempted</div>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar-inner" id="progressBarInner" style="width:0%"></div>
+      </div>
+      <div class="progress-stats-row">
+        <span id="progressMarksLabel">0 / 0 marks scored</span>
+        <span id="progressSessionLabel">Session: 0 answered</span>
+      </div>
+      <button class="progress-reset" onclick="resetProgress()">Reset progress</button>
+    </div>
+
     <div class="sidebar-section">
       <div class="sidebar-title">Filter by Paper</div>
       <div class="filter-row">
@@ -709,11 +794,44 @@
 <script>
 // ── State ────────────────────────────────────────────────────────────────────
 const allQuestions = {{ questions | tojson | safe }};
+const TOTAL_QUESTIONS = allQuestions.length;
+const STORAGE_KEY = 'aqaBiologyProgress';
 let filteredQuestions = [...allQuestions];
 let currentQuestionId = null;
 let scores = {};      // { questionId: { awarded: X, total: Y } }
+let sessionAnswered = 0;
 let hintVisible = false;
 let isMarking = false;
+
+// ── localStorage persistence ──────────────────────────────────────────────────
+function saveProgress() {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(scores));
+}
+
+function loadProgress() {
+  try {
+    const saved = localStorage.getItem(STORAGE_KEY);
+    if (saved) {
+      scores = JSON.parse(saved);
+      // Restore sidebar dots
+      for (const [id, s] of Object.entries(scores)) {
+        updateDot(id, s.awarded === s.total ? 'full' : s.awarded > 0 ? 'partial' : 'zero');
+      }
+    }
+  } catch (e) {
+    scores = {};
+  }
+}
+
+function resetProgress() {
+  if (!confirm('Reset all progress? This cannot be undone.')) return;
+  scores = {};
+  sessionAnswered = 0;
+  localStorage.removeItem(STORAGE_KEY);
+  document.querySelectorAll('.q-status-dot').forEach(d => d.className = 'q-status-dot');
+  updateScoreDisplay();
+  updateProgressPanel();
+}
 
 // ── Filtering ────────────────────────────────────────────────────────────────
 let activePaper = 'all';
@@ -924,12 +1042,14 @@ async function submitAnswer() {
       updateLiveScore(marksAwarded, marksTotal);
       // Save result
       const q = allQuestions.find(x => x.id === currentQuestionId);
+      const isNew = !scores[currentQuestionId];
       scores[currentQuestionId] = {
         awarded: marksAwarded,
         total: marksTotal || q.marks,
         answer,
         feedback: accumulated
       };
+      if (isNew) sessionAnswered++;
       updateScoreDisplay();
       updateDot(currentQuestionId,
         marksAwarded === marksTotal ? 'full' :
@@ -1005,6 +1125,26 @@ function updateProgress() {
   const answered = Object.keys(scores).length;
   const pct = (answered / allQuestions.length) * 100;
   document.getElementById('progressFill').style.width = pct + '%';
+  updateProgressPanel();
+  saveProgress();
+}
+
+function updateProgressPanel() {
+  let totalAwarded = 0, totalPossible = 0;
+  const answered = Object.keys(scores).length;
+  for (const s of Object.values(scores)) {
+    totalAwarded += s.awarded;
+    totalPossible += s.total;
+  }
+  const pct = TOTAL_QUESTIONS > 0 ? Math.round((answered / TOTAL_QUESTIONS) * 100) : 0;
+  document.getElementById('progressPct').textContent = pct + '%';
+  document.getElementById('progressBarInner').style.width = pct + '%';
+  document.getElementById('progressSubLabel').textContent =
+    `${answered} of ${TOTAL_QUESTIONS} questions attempted`;
+  document.getElementById('progressMarksLabel').textContent =
+    `${totalAwarded} / ${totalPossible} marks scored`;
+  document.getElementById('progressSessionLabel').textContent =
+    `Session: ${sessionAnswered} answered`;
 }
 
 function updateDot(id, state) {
@@ -1037,8 +1177,11 @@ document.addEventListener('keydown', e => {
   if (e.altKey && e.key === 'ArrowLeft') prevQuestion();
 });
 
-// Initialise display
+// Initialise — load persisted progress
+loadProgress();
 updateScoreDisplay();
+updateProgressPanel();
+updateProgress();
 </script>
 </body>
 </html>
